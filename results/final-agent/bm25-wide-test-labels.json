@@ -1,0 +1,78 @@
+{
+  "D7-T01": {
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đủ bốn nhánh Arithmetic đúng thứ tự tên trong nguồn, không nhầm Reeling/Writhing là nhánh Arithmetic.",
+    "citation_reasons": [
+      "Trang 52 trực tiếp liệt kê Ambition, Distraction, Uglification, Derision."
+    ]
+  },
+  "D7-T02": {
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng nguyên nhân jurors sợ quên tên trước khi phiên tòa kết thúc; không thêm nguyên nhân khác.",
+    "citation_reasons": [
+      "Trang 60 ghi putting down their names for fear they should forget them before end of trial."
+    ]
+  },
+  "D7-T03": {
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng cả hai thao tác cộng ba ngày và đổi kết quả sang shillings/pence, không tự bịa kết quả số.",
+    "citation_reasons": [
+      "Trang 61 mô tả jury wrote all three dates, added them up and reduced answer to shillings and pence."
+    ]
+  },
+  "D7-T04": {
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng lỗi đặt đầu chúc xuống và lấy ra đặt lại thẳng. Lần thử đầu bị tool_use_failed trước khi có answer; resume chỉ câu error và giữ lịch sử.",
+    "citation_reasons": [
+      "Trang 64 ghi head downwards, unable to move, got it out again and put it right."
+    ]
+  },
+  "D7-T05": {
+    "answer_grade": 1,
+    "context_grade": 2,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng cách dùng mực trên mặt để viết, nhưng thêm trình tự sau khi Queen ném mực Bill mới ngừng viết bằng ngón tay. Nguồn dùng had left off: đã ngừng trước đó. Chấm 1 vì ý chính đúng nhưng chi tiết thời gian không được hỗ trợ.",
+    "citation_reasons": [
+      "Trang 67 hỗ trợ dùng ink trickling down face; không hỗ trợ trình tự stopped writing with one finger sau khi Queen ném inkstand như answer diễn đạt."
+    ]
+  },
+  "D7-T-N1": {
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Corpus không nêu tuổi Bill; output từ chối và không bịa số. Trace kết thúc search_limit, không phải model chủ động abstain.",
+    "citation_reasons": []
+  },
+  "D7-T-N2": {
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có số nhà/địa chỉ Alice; output từ chối và không gán địa chỉ Rabbit cho Alice. Trace kết thúc search_limit.",
+    "citation_reasons": []
+  }
+}

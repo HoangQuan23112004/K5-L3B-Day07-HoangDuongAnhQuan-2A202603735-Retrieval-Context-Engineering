@@ -1,0 +1,500 @@
+{
+  "source_id": "pg11",
+  "title": "Alice's Adventures in Wonderland",
+  "author": "Lewis Carroll (died 1898)",
+  "source_path_or_url": "https://www.gutenberg.org/ebooks/11",
+  "download_url": "https://www.gutenberg.org/ebooks/11.txt.utf-8",
+  "local_path": "starter/data/alice.txt",
+  "license_or_permission": "Original work public domain (1865; author died 1898); PG edition declares public domain in USA. Full PG license retained in raw file. No translation or illustrations redistributed.",
+  "accessed_at": "2026-11-13T14:54:49.564217+07:00",
+  "raw_sha256": "01b38ea4c710a84bc18d0bd41271a5a1a92b94e97b2812f4dece97d4a694725e",
+  "snapshot": "PG #11, Millennium Fulcrum Edition 3.0; header updated 2025-06-26",
+  "page_rule": "Logical units, not physical pages: chapter order, whole normalized paragraphs until >=1800 chars; tail <1500 merged into previous unit. No overlap. Front matter/TOC/license/illustration markers/scene ornaments excluded.",
+  "count": 69,
+  "physical_pdf_pages": null,
+  "pages": [
+    {
+      "page": 1,
+      "chapter": 1,
+      "chars": 2383,
+      "chapter_start": 0,
+      "chapter_end": 2383
+    },
+    {
+      "page": 2,
+      "chapter": 1,
+      "chars": 2635,
+      "chapter_start": 2385,
+      "chapter_end": 5020
+    },
+    {
+      "page": 3,
+      "chapter": 1,
+      "chars": 2089,
+      "chapter_start": 5022,
+      "chapter_end": 7111
+    },
+    {
+      "page": 4,
+      "chapter": 1,
+      "chars": 2072,
+      "chapter_start": 7113,
+      "chapter_end": 9185
+    },
+    {
+      "page": 5,
+      "chapter": 1,
+      "chars": 2065,
+      "chapter_start": 9187,
+      "chapter_end": 11252
+    },
+    {
+      "page": 6,
+      "chapter": 2,
+      "chars": 2437,
+      "chapter_start": 0,
+      "chapter_end": 2437
+    },
+    {
+      "page": 7,
+      "chapter": 2,
+      "chars": 2548,
+      "chapter_start": 2439,
+      "chapter_end": 4987
+    },
+    {
+      "page": 8,
+      "chapter": 2,
+      "chars": 1932,
+      "chapter_start": 4989,
+      "chapter_end": 6921
+    },
+    {
+      "page": 9,
+      "chapter": 2,
+      "chars": 2287,
+      "chapter_start": 6923,
+      "chapter_end": 9210
+    },
+    {
+      "page": 10,
+      "chapter": 2,
+      "chars": 1682,
+      "chapter_start": 9212,
+      "chapter_end": 10894
+    },
+    {
+      "page": 11,
+      "chapter": 3,
+      "chars": 1813,
+      "chapter_start": 0,
+      "chapter_end": 1813
+    },
+    {
+      "page": 12,
+      "chapter": 3,
+      "chars": 2096,
+      "chapter_start": 1815,
+      "chapter_end": 3911
+    },
+    {
+      "page": 13,
+      "chapter": 3,
+      "chars": 1801,
+      "chapter_start": 3913,
+      "chapter_end": 5714
+    },
+    {
+      "page": 14,
+      "chapter": 3,
+      "chars": 3437,
+      "chapter_start": 5716,
+      "chapter_end": 9153
+    },
+    {
+      "page": 15,
+      "chapter": 4,
+      "chars": 2000,
+      "chapter_start": 0,
+      "chapter_end": 2000
+    },
+    {
+      "page": 16,
+      "chapter": 4,
+      "chars": 1805,
+      "chapter_start": 2002,
+      "chapter_end": 3807
+    },
+    {
+      "page": 17,
+      "chapter": 4,
+      "chars": 2174,
+      "chapter_start": 3809,
+      "chapter_end": 5983
+    },
+    {
+      "page": 18,
+      "chapter": 4,
+      "chars": 1928,
+      "chapter_start": 5985,
+      "chapter_end": 7913
+    },
+    {
+      "page": 19,
+      "chapter": 4,
+      "chars": 1899,
+      "chapter_start": 7915,
+      "chapter_end": 9814
+    },
+    {
+      "page": 20,
+      "chapter": 4,
+      "chars": 4020,
+      "chapter_start": 9816,
+      "chapter_end": 13836
+    },
+    {
+      "page": 21,
+      "chapter": 5,
+      "chars": 1872,
+      "chapter_start": 0,
+      "chapter_end": 1872
+    },
+    {
+      "page": 22,
+      "chapter": 5,
+      "chars": 1815,
+      "chapter_start": 1874,
+      "chapter_end": 3689
+    },
+    {
+      "page": 23,
+      "chapter": 5,
+      "chars": 2094,
+      "chapter_start": 3691,
+      "chapter_end": 5785
+    },
+    {
+      "page": 24,
+      "chapter": 5,
+      "chars": 2211,
+      "chapter_start": 5787,
+      "chapter_end": 7998
+    },
+    {
+      "page": 25,
+      "chapter": 5,
+      "chars": 1844,
+      "chapter_start": 8000,
+      "chapter_end": 9844
+    },
+    {
+      "page": 26,
+      "chapter": 5,
+      "chars": 1928,
+      "chapter_start": 9846,
+      "chapter_end": 11774
+    },
+    {
+      "page": 27,
+      "chapter": 6,
+      "chars": 1834,
+      "chapter_start": 0,
+      "chapter_end": 1834
+    },
+    {
+      "page": 28,
+      "chapter": 6,
+      "chars": 1839,
+      "chapter_start": 1836,
+      "chapter_end": 3675
+    },
+    {
+      "page": 29,
+      "chapter": 6,
+      "chars": 1967,
+      "chapter_start": 3677,
+      "chapter_end": 5644
+    },
+    {
+      "page": 30,
+      "chapter": 6,
+      "chars": 2118,
+      "chapter_start": 5646,
+      "chapter_end": 7764
+    },
+    {
+      "page": 31,
+      "chapter": 6,
+      "chars": 2149,
+      "chapter_start": 7766,
+      "chapter_end": 9915
+    },
+    {
+      "page": 32,
+      "chapter": 6,
+      "chars": 1849,
+      "chapter_start": 9917,
+      "chapter_end": 11766
+    },
+    {
+      "page": 33,
+      "chapter": 6,
+      "chars": 2025,
+      "chapter_start": 11768,
+      "chapter_end": 13793
+    },
+    {
+      "page": 34,
+      "chapter": 7,
+      "chars": 1879,
+      "chapter_start": 0,
+      "chapter_end": 1879
+    },
+    {
+      "page": 35,
+      "chapter": 7,
+      "chars": 1861,
+      "chapter_start": 1881,
+      "chapter_end": 3742
+    },
+    {
+      "page": 36,
+      "chapter": 7,
+      "chars": 1864,
+      "chapter_start": 3744,
+      "chapter_end": 5608
+    },
+    {
+      "page": 37,
+      "chapter": 7,
+      "chars": 1809,
+      "chapter_start": 5610,
+      "chapter_end": 7419
+    },
+    {
+      "page": 38,
+      "chapter": 7,
+      "chars": 1873,
+      "chapter_start": 7421,
+      "chapter_end": 9294
+    },
+    {
+      "page": 39,
+      "chapter": 7,
+      "chars": 3354,
+      "chapter_start": 9296,
+      "chapter_end": 12650
+    },
+    {
+      "page": 40,
+      "chapter": 8,
+      "chars": 2599,
+      "chapter_start": 0,
+      "chapter_end": 2599
+    },
+    {
+      "page": 41,
+      "chapter": 8,
+      "chars": 1897,
+      "chapter_start": 2601,
+      "chapter_end": 4498
+    },
+    {
+      "page": 42,
+      "chapter": 8,
+      "chars": 1918,
+      "chapter_start": 4500,
+      "chapter_end": 6418
+    },
+    {
+      "page": 43,
+      "chapter": 8,
+      "chars": 1973,
+      "chapter_start": 6420,
+      "chapter_end": 8393
+    },
+    {
+      "page": 44,
+      "chapter": 8,
+      "chars": 1869,
+      "chapter_start": 8395,
+      "chapter_end": 10264
+    },
+    {
+      "page": 45,
+      "chapter": 8,
+      "chars": 1826,
+      "chapter_start": 10266,
+      "chapter_end": 12092
+    },
+    {
+      "page": 46,
+      "chapter": 8,
+      "chars": 1533,
+      "chapter_start": 12094,
+      "chapter_end": 13627
+    },
+    {
+      "page": 47,
+      "chapter": 9,
+      "chars": 1875,
+      "chapter_start": 0,
+      "chapter_end": 1875
+    },
+    {
+      "page": 48,
+      "chapter": 9,
+      "chars": 1833,
+      "chapter_start": 1877,
+      "chapter_end": 3710
+    },
+    {
+      "page": 49,
+      "chapter": 9,
+      "chars": 2101,
+      "chapter_start": 3712,
+      "chapter_end": 5813
+    },
+    {
+      "page": 50,
+      "chapter": 9,
+      "chars": 1991,
+      "chapter_start": 5815,
+      "chapter_end": 7806
+    },
+    {
+      "page": 51,
+      "chapter": 9,
+      "chars": 1871,
+      "chapter_start": 7808,
+      "chapter_end": 9679
+    },
+    {
+      "page": 52,
+      "chapter": 9,
+      "chars": 2912,
+      "chapter_start": 9681,
+      "chapter_end": 12593
+    },
+    {
+      "page": 53,
+      "chapter": 10,
+      "chars": 1835,
+      "chapter_start": 0,
+      "chapter_end": 1835
+    },
+    {
+      "page": 54,
+      "chapter": 10,
+      "chars": 1894,
+      "chapter_start": 1837,
+      "chapter_end": 3731
+    },
+    {
+      "page": 55,
+      "chapter": 10,
+      "chars": 1851,
+      "chapter_start": 3733,
+      "chapter_end": 5584
+    },
+    {
+      "page": 56,
+      "chapter": 10,
+      "chars": 1821,
+      "chapter_start": 5586,
+      "chapter_end": 7407
+    },
+    {
+      "page": 57,
+      "chapter": 10,
+      "chars": 1823,
+      "chapter_start": 7409,
+      "chapter_end": 9232
+    },
+    {
+      "page": 58,
+      "chapter": 10,
+      "chars": 2110,
+      "chapter_start": 9234,
+      "chapter_end": 11344
+    },
+    {
+      "page": 59,
+      "chapter": 11,
+      "chars": 1816,
+      "chapter_start": 0,
+      "chapter_end": 1816
+    },
+    {
+      "page": 60,
+      "chapter": 11,
+      "chars": 2018,
+      "chapter_start": 1818,
+      "chapter_end": 3836
+    },
+    {
+      "page": 61,
+      "chapter": 11,
+      "chars": 1967,
+      "chapter_start": 3838,
+      "chapter_end": 5805
+    },
+    {
+      "page": 62,
+      "chapter": 11,
+      "chars": 1994,
+      "chapter_start": 5807,
+      "chapter_end": 7801
+    },
+    {
+      "page": 63,
+      "chapter": 11,
+      "chars": 2540,
+      "chapter_start": 7803,
+      "chapter_end": 10343
+    },
+    {
+      "page": 64,
+      "chapter": 12,
+      "chars": 1804,
+      "chapter_start": 0,
+      "chapter_end": 1804
+    },
+    {
+      "page": 65,
+      "chapter": 12,
+      "chars": 1826,
+      "chapter_start": 1806,
+      "chapter_end": 3632
+    },
+    {
+      "page": 66,
+      "chapter": 12,
+      "chars": 1898,
+      "chapter_start": 3634,
+      "chapter_end": 5532
+    },
+    {
+      "page": 67,
+      "chapter": 12,
+      "chars": 1943,
+      "chapter_start": 5534,
+      "chapter_end": 7477
+    },
+    {
+      "page": 68,
+      "chapter": 12,
+      "chars": 1805,
+      "chapter_start": 7479,
+      "chapter_end": 9284
+    },
+    {
+      "page": 69,
+      "chapter": 12,
+      "chars": 2286,
+      "chapter_start": 9286,
+      "chapter_end": 11572
+    }
+  ]
+}

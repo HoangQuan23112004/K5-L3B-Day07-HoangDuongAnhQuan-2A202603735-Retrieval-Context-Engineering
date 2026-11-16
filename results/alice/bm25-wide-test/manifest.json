@@ -1,0 +1,30 @@
+{
+  "identity": {
+    "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+    "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+    "config_hash": "c46681e2231078a051f4c4901b15825e1a97730c0dcecbbdc7e43af03175c30c",
+    "provider": {
+      "provider": "fastembed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "query_method": "query_embed"
+    },
+    "chat_model": "qwen2.5:7b",
+    "chat_provider": "ollama",
+    "chat_url": "http://localhost:11434",
+    "vector_store": "qdrant",
+    "mode": "retrieval",
+    "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+  },
+  "config": {
+    "name": "bm25-wide",
+    "method": "bm25",
+    "top_k": 6,
+    "budget_chars": 12000,
+    "max_searches": 4,
+    "hypothesis": "A larger final context and more search turns can recover evidence below rank three, trading context length for recall."
+  },
+  "split": "test",
+  "mode": "retrieval",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+}

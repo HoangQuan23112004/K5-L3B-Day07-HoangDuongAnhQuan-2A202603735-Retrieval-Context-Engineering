@@ -1,0 +1,8 @@
+{
+  "name": "bm25-wide",
+  "method": "bm25",
+  "top_k": 6,
+  "budget_chars": 12000,
+  "max_searches": 4,
+  "hypothesis": "A larger final context and more search turns can recover evidence below rank three, trading context length for recall."
+}

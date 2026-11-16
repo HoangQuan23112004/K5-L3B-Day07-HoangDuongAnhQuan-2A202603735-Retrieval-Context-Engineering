@@ -1,0 +1,36 @@
+{
+  "cases": 7,
+  "successful": 7,
+  "errors": 0,
+  "median_ms": 14863.308799918741,
+  "cost_usd": null,
+  "cost_note": "Usage recorded; set actual provider pricing externally. No inferred dollar cost.",
+  "context_evidence_rate": {
+    "n": 5,
+    "N": 5,
+    "rate": 1.0
+  },
+  "average_context_chars": 2186.1428571428573,
+  "tool_use": {
+    "n": 7,
+    "N": 7,
+    "rate": 1.0
+  },
+  "search_call_counts": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    2,
+    2
+  ],
+  "requires_human_review": [
+    "answer_grade",
+    "citation_support",
+    "abstention_correct",
+    "context_grade",
+    "reasons"
+  ],
+  "provider_call_count": 16
+}

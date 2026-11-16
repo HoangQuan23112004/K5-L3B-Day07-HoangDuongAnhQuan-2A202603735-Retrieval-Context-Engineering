@@ -1,0 +1,210 @@
+[
+  {
+    "id": "Q01",
+    "split": "dev",
+    "question": "What was in the jar labelled ORANGE MARMALADE, and why did Alice avoid dropping it?",
+    "expected_answer": "It was empty; she feared killing someone underneath.",
+    "gold_source_id": "pg11",
+    "gold_page": 1,
+    "evidence_quote": "Either the well was very deep, or she fell very slowly, for she had plenty of time as she went down to look about her and to wonder what was going to happen next. First, she tried to look down and make out what she was coming to, but it was too dark to see anything; then she looked at the sides of the well, and noticed that they were filled with cupboards and book-shelves; here and there she saw maps and pictures hung upon pegs. She took down a jar from one of the shelves as she passed; it was labelled “ORANGE MARMALADE”, but to her great disappointment it was empty: she did not like to drop the jar for fear of killing somebody underneath, so managed to put it into one of the cupboards as she fell past it.",
+    "filter": {}
+  },
+  {
+    "id": "Q02",
+    "split": "dev",
+    "question": "What unusual object did the White Rabbit take from its waistcoat pocket?",
+    "expected_answer": "A watch.",
+    "gold_source_id": "pg11",
+    "gold_page": 1,
+    "evidence_quote": "There was nothing so _very_ remarkable in that; nor did Alice think it so _very_ much out of the way to hear the Rabbit say to itself, “Oh dear! Oh dear! I shall be late!” (when she thought it over afterwards, it occurred to her that she ought to have wondered at this, but at the time it all seemed quite natural); but when the Rabbit actually _took a watch out of its waistcoat-pocket_, and looked at it, and then hurried on, Alice started to her feet, for it flashed across her mind that she had never before seen a rabbit with either a waistcoat-pocket, or a watch to take out of it, and burning with curiosity, she ran across the field after it, and fortunately was just in time to see it pop down a large rabbit-hole under the hedge.",
+    "filter": {}
+  },
+  {
+    "id": "Q03",
+    "split": "dev",
+    "question": "Why did Alice initially find her sister’s book uninteresting?",
+    "expected_answer": "It had no pictures or conversations.",
+    "gold_source_id": "pg11",
+    "gold_page": 1,
+    "evidence_quote": "Alice was beginning to get very tired of sitting by her sister on the bank, and of having nothing to do: once or twice she had peeped into the book her sister was reading, but it had no pictures or conversations in it, “and what is the use of a book,” thought Alice “without pictures or conversations?”",
+    "filter": {}
+  },
+  {
+    "id": "Q04",
+    "split": "dev",
+    "question": "In chapter I, what did Alice check before tasting the bottle?",
+    "expected_answer": "Whether it was marked poison.",
+    "gold_source_id": "pg11",
+    "gold_page": 4,
+    "evidence_quote": "It was all very well to say “Drink me,” but the wise little Alice was not going to do _that_ in a hurry. “No, I’ll look first,” she said, “and see whether it’s marked ‘_poison_’ or not”; for she had read several nice little histories about children who had got burnt, and eaten up by wild beasts and other unpleasant things, all because they _would_ not remember the simple rules their friends had taught them: such as, that a red-hot poker will burn you if you hold it too long; and that if you cut your finger _very_ deeply with a knife, it usually bleeds; and she had never forgotten that, if you drink much from a bottle marked “poison,” it is almost certain to disagree with you, sooner or later.",
+    "filter": {
+      "chapter": 1
+    }
+  },
+  {
+    "id": "Q05",
+    "split": "dev",
+    "question": "How deep was the pool created by Alice’s tears, and how far did it extend?",
+    "expected_answer": "About four inches deep, reaching halfway down the hall.",
+    "gold_source_id": "pg11",
+    "gold_page": 6,
+    "evidence_quote": "“You ought to be ashamed of yourself,” said Alice, “a great girl like you,” (she might well say this), “to go on crying in this way! Stop this moment, I tell you!” But she went on all the same, shedding gallons of tears, until there was a large pool all round her, about four inches deep and reaching half down the hall.",
+    "filter": {}
+  },
+  {
+    "id": "Q06",
+    "split": "dev",
+    "question": "What did the Dodo ceremonially present to Alice as her prize?",
+    "expected_answer": "A thimble.",
+    "gold_source_id": "pg11",
+    "gold_page": 13,
+    "evidence_quote": "Then they all crowded round her once more, while the Dodo solemnly presented the thimble, saying “We beg your acceptance of this elegant thimble;” and, when it had finished this short speech, they all cheered.",
+    "filter": {}
+  },
+  {
+    "id": "Q07",
+    "split": "dev",
+    "question": "In chapter III, why did the other animals dislike hearing about Dinah?",
+    "expected_answer": "She was a cat who caught mice and ate birds.",
+    "gold_source_id": "pg11",
+    "gold_page": 14,
+    "evidence_quote": "Alice replied eagerly, for she was always ready to talk about her pet: “Dinah’s our cat. And she’s such a capital one for catching mice you can’t think! And oh, I wish you could see her after the birds! Why, she’ll eat a little bird as soon as look at it!”",
+    "filter": {
+      "chapter": 3
+    }
+  },
+  {
+    "id": "Q08",
+    "split": "dev",
+    "question": "Who did the Rabbit mistake Alice for when ordering her to fetch things?",
+    "expected_answer": "Mary Ann.",
+    "gold_source_id": "pg11",
+    "gold_page": 15,
+    "evidence_quote": "Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, “Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!” And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.",
+    "filter": {}
+  },
+  {
+    "id": "Q09",
+    "split": "dev",
+    "question": "What did Alice threaten to do if the Rabbit burned the house down?",
+    "expected_answer": "Set Dinah at them.",
+    "gold_source_id": "pg11",
+    "gold_page": 19,
+    "evidence_quote": "“We must burn the house down!” said the Rabbit’s voice; and Alice called out as loud as she could, “If you do, I’ll set Dinah at you!”",
+    "filter": {}
+  },
+  {
+    "id": "Q10",
+    "split": "dev",
+    "question": "What was the Caterpillar doing when Alice first saw it on the mushroom?",
+    "expected_answer": "Smoking a long hookah.",
+    "gold_source_id": "pg11",
+    "gold_page": 20,
+    "evidence_quote": "She stretched herself up on tiptoe, and peeped over the edge of the mushroom, and her eyes immediately met those of a large blue caterpillar, that was sitting on the top with its arms folded, quietly smoking a long hookah, and taking not the smallest notice of her or of anything else.",
+    "filter": {}
+  },
+  {
+    "id": "Q11",
+    "split": "dev",
+    "question": "What did Alice admit about eating eggs when arguing with the Pigeon?",
+    "expected_answer": "She had tasted eggs and said little girls eat them as much as serpents.",
+    "gold_source_id": "pg11",
+    "gold_page": 25,
+    "evidence_quote": "“I _have_ tasted eggs, certainly,” said Alice, who was a very truthful child; “but little girls eat eggs quite as much as serpents do, you know.”",
+    "filter": {}
+  },
+  {
+    "id": "Q12",
+    "split": "dev",
+    "question": "What made Alice sneeze in the Duchess’s kitchen?",
+    "expected_answer": "Too much pepper in the soup.",
+    "gold_source_id": "pg11",
+    "gold_page": 29,
+    "evidence_quote": "“There’s certainly too much pepper in that soup!” Alice said to herself, as well as she could for sneezing.",
+    "filter": {}
+  },
+  {
+    "id": "Q13",
+    "split": "dev",
+    "question": "In chapter VII, what substance did the March Hare put in the watch?",
+    "expected_answer": "Butter, which the Hatter said did not suit the works.",
+    "gold_source_id": "pg11",
+    "gold_page": 35,
+    "evidence_quote": "“Two days wrong!” sighed the Hatter. “I told you butter wouldn’t suit the works!” he added looking angrily at the March Hare.",
+    "filter": {
+      "chapter": 7
+    }
+  },
+  {
+    "id": "Q14",
+    "split": "dev",
+    "question": "What kind of well did the Dormouse say the three sisters lived in?",
+    "expected_answer": "A treacle-well.",
+    "gold_source_id": "pg11",
+    "gold_page": 38,
+    "evidence_quote": "The Dormouse again took a minute or two to think about it, and then said, “It was a treacle-well.”",
+    "filter": {}
+  },
+  {
+    "id": "Q15",
+    "split": "dev",
+    "question": "What served as the balls, mallets, and arches in the Queen’s croquet game?",
+    "expected_answer": "Live hedgehogs, live flamingoes, and soldiers bent over.",
+    "gold_source_id": "pg11",
+    "gold_page": 43,
+    "evidence_quote": "“Get to your places!” shouted the Queen in a voice of thunder, and people began running about in all directions, tumbling up against each other; however, they got settled down in a minute or two, and the game began. Alice thought she had never seen such a curious croquet-ground in her life; it was all ridges and furrows; the balls were live hedgehogs, the mallets live flamingoes, and the soldiers had to double themselves up and to stand on their hands and feet, to make the arches.",
+    "filter": {}
+  },
+  {
+    "id": "Q16",
+    "split": "test",
+    "question": "Why was the Mock Turtle’s teacher called Tortoise even though he was a turtle?",
+    "expected_answer": "Because he taught us, a pun on tortoise.",
+    "gold_source_id": "pg11",
+    "gold_page": 51,
+    "evidence_quote": "“We called him Tortoise because he taught us,” said the Mock Turtle angrily: “really you are very dull!”",
+    "filter": {}
+  },
+  {
+    "id": "Q17",
+    "split": "test",
+    "question": "How did the number of school hours change from the first day to the second?",
+    "expected_answer": "Ten hours the first day, nine the next.",
+    "gold_source_id": "pg11",
+    "gold_page": 52,
+    "evidence_quote": "“Ten hours the first day,” said the Mock Turtle: “nine the next, and so on.”",
+    "filter": {}
+  },
+  {
+    "id": "Q18",
+    "split": "test",
+    "question": "In chapter X, what does the Mock Turtle say no wise fish would travel without?",
+    "expected_answer": "A porpoise, in a pun on purpose.",
+    "gold_source_id": "pg11",
+    "gold_page": 56,
+    "evidence_quote": "“They were obliged to have him with them,” the Mock Turtle said: “no wise fish would go anywhere without a porpoise.”",
+    "filter": {
+      "chapter": 10
+    }
+  },
+  {
+    "id": "Q19",
+    "split": "test",
+    "question": "What did the Hatter bring when he appeared as the first witness, and why?",
+    "expected_answer": "A teacup and bread-and-butter, because he had not finished tea.",
+    "gold_source_id": "pg11",
+    "gold_page": 60,
+    "evidence_quote": "The first witness was the Hatter. He came in with a teacup in one hand and a piece of bread-and-butter in the other. “I beg pardon, your Majesty,” he began, “for bringing these in: but I hadn’t quite finished my tea when I was sent for.”",
+    "filter": {}
+  },
+  {
+    "id": "Q20",
+    "split": "test",
+    "question": "What rule did the King cite to make tall people leave the court?",
+    "expected_answer": "Rule Forty-two: all persons more than a mile high must leave the court.",
+    "gold_source_id": "pg11",
+    "gold_page": 65,
+    "evidence_quote": "At this moment the King, who had been for some time busily writing in his note-book, cackled out “Silence!” and read out from his book, “Rule Forty-two. _All persons more than a mile high to leave the court_.”",
+    "filter": {}
+  }
+]

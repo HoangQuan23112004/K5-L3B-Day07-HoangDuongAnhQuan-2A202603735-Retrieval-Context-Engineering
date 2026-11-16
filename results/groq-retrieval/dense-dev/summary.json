@@ -1,0 +1,25 @@
+{
+  "cases": 17,
+  "successful": 17,
+  "errors": 0,
+  "median_ms": 64.64230036363006,
+  "cost_usd": 0,
+  "cost_note": "Local retrieval; no paid API calls. Hardware/electricity not priced.",
+  "context_evidence_rate": {
+    "n": 12,
+    "N": 15,
+    "rate": 0.8
+  },
+  "average_context_chars": 2081.6470588235293,
+  "hit_at_1": {
+    "n": 8,
+    "N": 15,
+    "rate": 0.5333333333333333
+  },
+  "hit_at_3": {
+    "n": 12,
+    "N": 15,
+    "rate": 0.8
+  },
+  "provider_call_count": 17
+}

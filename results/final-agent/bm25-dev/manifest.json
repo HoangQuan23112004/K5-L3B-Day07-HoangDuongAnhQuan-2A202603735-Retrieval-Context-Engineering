@@ -1,0 +1,31 @@
+{
+  "identity": {
+    "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+    "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+    "config_hash": "b57c43e04c2a5554d40108efcd58be1a95bfe40c7449b8f96dffa10458a9e942",
+    "provider": {
+      "provider": "fastembed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "query_method": "query_embed"
+    },
+    "chat_model": "openai/gpt-oss-20b",
+    "chat_provider": "openai",
+    "chat_url": "https://api.groq.com/openai/v1",
+    "vector_store": "qdrant",
+    "mode": "agent",
+    "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+  },
+  "config": {
+    "name": "baseline-bm25",
+    "method": "bm25",
+    "top_k": 3,
+    "budget_chars": 6000,
+    "max_searches": 2,
+    "hypothesis": "Lexical baseline captures exact TLS terminology."
+  },
+  "split": "dev",
+  "mode": "agent",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "index_manifest": "artifacts/qdrant-day6-b.manifest.json",
+  "resume_from": "artifacts\\agent-bm25-dev-resumed"
+}

@@ -1,0 +1,88 @@
+{
+  "finished_at": "2026-11-13T15:01:06.737277+07:00",
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimensions": 384,
+  "model_load_seconds": 16.572786499978974,
+  "config": {
+    "A": {
+      "method": "fixed",
+      "size": 800,
+      "overlap": 100,
+      "filter": false
+    },
+    "B": {
+      "method": "paragraph",
+      "size": 800,
+      "overlap": 0,
+      "filter": false
+    },
+    "C": {
+      "method": "paragraph",
+      "size": 800,
+      "overlap": 0,
+      "filter": true
+    }
+  },
+  "python": "3.12.10",
+  "versions": {
+    "fastembed": "0.7.4",
+    "qdrant-client": "1.20.0",
+    "onnxruntime": "1.31.1",
+    "numpy": "2.5.4",
+    "tokenizers": "0.23.3"
+  },
+  "store": "Qdrant local persistent; exact cosine",
+  "strategies": {
+    "A": {
+      "chunks": 225,
+      "chars": 158317,
+      "min_chars": 111,
+      "max_chars": 800,
+      "mean_chars": 703.6311111111111,
+      "embedding_seconds": 10.856220599962398,
+      "store_seconds": 1.4164797998964787,
+      "reuses_vectors_from": null,
+      "count_before_reingest": 225,
+      "count_after_reingest": 225,
+      "paid_api_cost_usd": 0
+    },
+    "B": {
+      "chunks": 238,
+      "chars": 142391,
+      "min_chars": 56,
+      "max_chars": 800,
+      "mean_chars": 598.281512605042,
+      "embedding_seconds": 11.459704599808902,
+      "store_seconds": 1.4934276000130922,
+      "reuses_vectors_from": null,
+      "count_before_reingest": 238,
+      "count_after_reingest": 238,
+      "paid_api_cost_usd": 0
+    },
+    "C": {
+      "chunks": 238,
+      "chars": 142391,
+      "min_chars": 56,
+      "max_chars": 800,
+      "mean_chars": 598.281512605042,
+      "embedding_seconds": 2.09989957511425e-06,
+      "store_seconds": 1.4871008999180049,
+      "reuses_vectors_from": "B",
+      "count_before_reingest": 238,
+      "count_after_reingest": 238,
+      "paid_api_cost_usd": 0
+    }
+  },
+  "manual_audits": "90 AI-assisted labels completed by Codex; human verified; see labels.json and review_notes.md",
+  "model_files_sha256": {
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\files_metadata.json": "c4bed14dd7e4fadd7a8145467f57bb65e0619ace25f27577257fb506cfebae99",
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\trees\\d13954661f83248295ba75c1ed411eef3b7b936e.json": "f0b22b29b7787927dfc24d4d0c9e5788930e3253ec4234c4ae559b8cda1e6e9b",
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\snapshots\\d13954661f83248295ba75c1ed411eef3b7b936e\\config.json": "1b4d8e2a3988377ed8b519a31d8d31025a25f1c5f8606998e8014111438efcd7",
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\snapshots\\d13954661f83248295ba75c1ed411eef3b7b936e\\model.onnx": "bbd7b466f6d58e646fdc2bd5fd67b2f5e93c0b687011bd4548c420f7bd46f0c5",
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\snapshots\\d13954661f83248295ba75c1ed411eef3b7b936e\\special_tokens_map.json": "5d5b662e421ea9fac075174bb0688ee0d9431699900b90662acd44b2a350503a",
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\snapshots\\d13954661f83248295ba75c1ed411eef3b7b936e\\tokenizer.json": "851ca67100d372ca3ae031a6abd168f53489eebfd7d89523f35c5c9b4d372c3c",
+    "models--qdrant--all-MiniLM-L6-v2-onnx\\snapshots\\d13954661f83248295ba75c1ed411eef3b7b936e\\tokenizer_config.json": "abda01c8c14c5151ae498aceb30db406d6b91242c394fd88d3b6fd5a63a101e6"
+  },
+  "audit_review_type": "ai_assisted",
+  "human_verified": "True"
+}

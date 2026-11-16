@@ -1,0 +1,10 @@
+{
+  "name": "hybrid-rrf",
+  "method": "hybrid",
+  "top_k": 3,
+  "candidates": 12,
+  "rrf_k": 60,
+  "budget_chars": 6000,
+  "max_searches": 2,
+  "hypothesis": "RRF combines terminology matching with semantic recall without adding incomparable scores."
+}

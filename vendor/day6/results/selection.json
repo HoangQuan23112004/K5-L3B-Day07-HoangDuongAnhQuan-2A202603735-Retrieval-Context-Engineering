@@ -1,0 +1,34 @@
+{
+  "selected": "B",
+  "selected_at": "2026-11-13T15:01:06.655555+07:00",
+  "dev_metrics": {
+    "A/dev": {
+      "n": 15,
+      "hit1_n": 2,
+      "hit3_n": 9,
+      "hit1": 0.13333333333333333,
+      "hit3": 0.6,
+      "filter_n": 3,
+      "filter_compliant_n": 0
+    },
+    "B/dev": {
+      "n": 15,
+      "hit1_n": 8,
+      "hit3_n": 12,
+      "hit1": 0.5333333333333333,
+      "hit3": 0.8,
+      "filter_n": 3,
+      "filter_compliant_n": 1
+    },
+    "C/dev": {
+      "n": 15,
+      "hit1_n": 8,
+      "hit3_n": 12,
+      "hit1": 0.5333333333333333,
+      "hit3": 0.8,
+      "filter_n": 3,
+      "filter_compliant_n": 3
+    }
+  },
+  "protocol_lock_sha256": "5718c0e4d9913e04836c1cbd003470e0cb9d907a497a8658a4ca01e0f0a4c4c8"
+}

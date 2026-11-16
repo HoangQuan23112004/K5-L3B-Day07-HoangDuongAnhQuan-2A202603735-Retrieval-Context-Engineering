@@ -1,0 +1,10 @@
+{
+  "name": "hybrid-wide",
+  "method": "hybrid",
+  "top_k": 6,
+  "candidates": 24,
+  "rrf_k": 60,
+  "budget_chars": 12000,
+  "max_searches": 4,
+  "hypothesis": "A wider candidate pool, more evidence and more search turns may recover conditions and multi-hop facts, at higher latency."
+}

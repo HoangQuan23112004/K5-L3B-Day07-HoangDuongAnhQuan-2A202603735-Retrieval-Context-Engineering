@@ -1,0 +1,136 @@
+{
+  "identity": {
+    "provider": "fastembed",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "query_method": "query_embed"
+  },
+  "dimension": 384,
+  "count": 238,
+  "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+  "provenance": "Rebuilt Day 6 alice_B chunks at commit 82080a89e87cf6eeab2c9709d8c50276ce8dd2c7 with FastEmbed all-MiniLM-L6-v2; original Qdrant snapshot not published",
+  "collection": "alice_B",
+  "vectors_hash": "56e4b09fe7ad7a5d038a6fdc45c672f6e5b944d76fb7e218852596261fef6586",
+  "elapsed_ms": 116871.4625001885,
+  "provider_calls": [
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 66059.01010008529,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3202.9285999014974,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3194.0570999868214,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3667.7945000119507,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 4899.878500029445,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3200.0725995749235,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3050.10150000453,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3269.0881001763046,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3332.103999797255,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3068.955299910158,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3157.2042000479996,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3584.5021000131965,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 2962.6098996959627,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3195.8163999952376,
+      "usage": {
+        "texts": 16
+      }
+    },
+    {
+      "endpoint": "local/embed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "elapsed_ms": 3306.532199960202,
+      "usage": {
+        "texts": 14
+      }
+    }
+  ]
+}

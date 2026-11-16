@@ -1,0 +1,42 @@
+{
+  "cases": 7,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 7,
+    "N": 7
+  },
+  "grounded_answer": {
+    "0": 0,
+    "1": 0,
+    "2": 5,
+    "N": 5,
+    "mean": 2.0
+  },
+  "citation_validity": {
+    "n": 5,
+    "N": 5
+  },
+  "answer_citation_coverage": {
+    "n": 5,
+    "N": 5
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 0,
+    "N": 5
+  },
+  "context_grades": {
+    "0": 2,
+    "1": 0,
+    "2": 5
+  },
+  "reviews_hash": "bddc9bed4a2ad753cfa63b741e817e606a064e14ddd799f65a8f31e51effa4f1",
+  "traces_hash": "f771f5504c716030778ba5196f3470241890104a416910415beb522d1bb88907",
+  "review_provenance": {
+    "ai_assisted": 7,
+    "human_verified": 7
+  }
+}

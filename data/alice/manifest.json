@@ -1,0 +1,16 @@
+{
+  "upstream_repo": "https://github.com/HoangQuan23112004/K5-L3B-Day06-HoangDuongAnhQuan-2A202603735-DataIngestionEngineering",
+  "upstream_commit": "82080a89e87cf6eeab2c9709d8c50276ce8dd2c7",
+  "strategy": "B",
+  "chunks": 238,
+  "logical_pages": 69,
+  "physical_pages": null,
+  "page_rule": "Logical units, not physical pages: chapter order, whole normalized paragraphs until >=1800 chars; tail <1500 merged into previous unit. No overlap. Front matter/TOC/license/illustration markers/scene ornaments excluded.",
+  "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "dimension": 384,
+  "vector_store": "Qdrant local cosine, alice_B; rebuild with original embedding model because snapshot was not published",
+  "benchmark": "15 unchanged Day 6 dev + 5 newly authored Day 7 test + 2 dev and 2 test unanswerable",
+  "test_protocol": "Old Q16-Q20 retired. New test authored before Day 7 dev tuning; do not inspect retrieval outputs until freeze.",
+  "rights": "Original work public domain (1865; author died 1898); PG edition declares public domain in USA. Full PG license retained in raw file. No translation or illustrations redistributed."
+}

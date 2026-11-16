@@ -1,0 +1,381 @@
+{
+  "runs": [
+    {
+      "name": "BM25 baseline",
+      "split": "dev",
+      "directory": "results/final-agent/bm25-dev-v3",
+      "summary": {
+        "cases": 17,
+        "successful": 17,
+        "errors": 0,
+        "median_ms": 16587.068900000304,
+        "cost_usd": null,
+        "cost_note": "Usage recorded; set actual provider pricing externally. No inferred dollar cost.",
+        "context_evidence_rate": {
+          "n": 14,
+          "N": 15,
+          "rate": 0.9333333333333333
+        },
+        "average_context_chars": 2305.470588235294,
+        "tool_use": {
+          "n": 17,
+          "N": 17,
+          "rate": 1.0
+        },
+        "search_call_counts": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          1,
+          2,
+          1,
+          1,
+          1,
+          2,
+          1,
+          1,
+          2,
+          2
+        ],
+        "requires_human_review": [
+          "answer_grade",
+          "citation_support",
+          "abstention_correct",
+          "context_grade",
+          "reasons"
+        ],
+        "provider_call_count": 39
+      },
+      "audit": {
+        "cases": 17,
+        "provider_errors": 0,
+        "tool_use": {
+          "n": 17,
+          "N": 17
+        },
+        "grounded_answer": {
+          "0": 2,
+          "1": 2,
+          "2": 11,
+          "N": 15,
+          "mean": 1.6
+        },
+        "citation_validity": {
+          "n": 12,
+          "N": 13
+        },
+        "answer_citation_coverage": {
+          "n": 13,
+          "N": 13
+        },
+        "abstention": {
+          "n": 2,
+          "N": 2
+        },
+        "false_abstention": {
+          "n": 2,
+          "N": 15
+        },
+        "context_grades": {
+          "0": 2,
+          "1": 1,
+          "2": 14
+        },
+        "reviews_hash": "538ca617bd89cdbbaf6b86570ad43c41692eb84ee5c01f4102cff4749ee2b1ba",
+        "traces_hash": "162f5fed15c2223563e82f2e90ea85181e2fd549023ebe847a868d5cc78f01c1",
+        "review_provenance": {
+          "ai_assisted": 17,
+          "human_verified": 17
+        }
+      },
+      "prompt_tokens": 34806,
+      "completion_tokens": 5589
+    },
+    {
+      "name": "BM25-wide",
+      "split": "dev",
+      "directory": "results/final-agent/bm25-wide-dev",
+      "summary": {
+        "cases": 17,
+        "successful": 17,
+        "errors": 0,
+        "median_ms": 16293.61809976399,
+        "cost_usd": null,
+        "cost_note": "Usage recorded; set actual provider pricing externally. No inferred dollar cost.",
+        "context_evidence_rate": {
+          "n": 15,
+          "N": 15,
+          "rate": 1.0
+        },
+        "average_context_chars": 4688.823529411765,
+        "tool_use": {
+          "n": 17,
+          "N": 17,
+          "rate": 1.0
+        },
+        "search_call_counts": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          1,
+          4,
+          1,
+          2,
+          1,
+          2,
+          1,
+          4,
+          1,
+          1,
+          4,
+          4
+        ],
+        "requires_human_review": [
+          "answer_grade",
+          "citation_support",
+          "abstention_correct",
+          "context_grade",
+          "reasons"
+        ],
+        "provider_call_count": 72
+      },
+      "audit": {
+        "cases": 17,
+        "provider_errors": 0,
+        "tool_use": {
+          "n": 17,
+          "N": 17
+        },
+        "grounded_answer": {
+          "0": 2,
+          "1": 1,
+          "2": 12,
+          "N": 15,
+          "mean": 1.6666666666666667
+        },
+        "citation_validity": {
+          "n": 12,
+          "N": 14
+        },
+        "answer_citation_coverage": {
+          "n": 13,
+          "N": 13
+        },
+        "abstention": {
+          "n": 2,
+          "N": 2
+        },
+        "false_abstention": {
+          "n": 2,
+          "N": 15
+        },
+        "context_grades": {
+          "0": 2,
+          "1": 0,
+          "2": 15
+        },
+        "reviews_hash": "92654753879ff645b173a95bc938d368dfdefa7d377942635da4c2f644bf402e",
+        "traces_hash": "e8db323a4b10336adb0c764c2d5f51da7882f556fa1e015a75e2ca56071e1d1a",
+        "review_provenance": {
+          "ai_assisted": 17,
+          "human_verified": 17
+        }
+      },
+      "prompt_tokens": 72392,
+      "completion_tokens": 6155
+    },
+    {
+      "name": "BM25 baseline",
+      "split": "test",
+      "directory": "results/final-agent/bm25-test",
+      "summary": {
+        "cases": 7,
+        "successful": 7,
+        "errors": 0,
+        "median_ms": 14863.308799918741,
+        "cost_usd": null,
+        "cost_note": "Usage recorded; set actual provider pricing externally. No inferred dollar cost.",
+        "context_evidence_rate": {
+          "n": 5,
+          "N": 5,
+          "rate": 1.0
+        },
+        "average_context_chars": 2186.1428571428573,
+        "tool_use": {
+          "n": 7,
+          "N": 7,
+          "rate": 1.0
+        },
+        "search_call_counts": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          2,
+          2
+        ],
+        "requires_human_review": [
+          "answer_grade",
+          "citation_support",
+          "abstention_correct",
+          "context_grade",
+          "reasons"
+        ],
+        "provider_call_count": 16
+      },
+      "audit": {
+        "cases": 7,
+        "provider_errors": 0,
+        "tool_use": {
+          "n": 7,
+          "N": 7
+        },
+        "grounded_answer": {
+          "0": 0,
+          "1": 0,
+          "2": 5,
+          "N": 5,
+          "mean": 2.0
+        },
+        "citation_validity": {
+          "n": 5,
+          "N": 5
+        },
+        "answer_citation_coverage": {
+          "n": 5,
+          "N": 5
+        },
+        "abstention": {
+          "n": 2,
+          "N": 2
+        },
+        "false_abstention": {
+          "n": 0,
+          "N": 5
+        },
+        "context_grades": {
+          "0": 2,
+          "1": 0,
+          "2": 5
+        },
+        "reviews_hash": "bddc9bed4a2ad753cfa63b741e817e606a064e14ddd799f65a8f31e51effa4f1",
+        "traces_hash": "f771f5504c716030778ba5196f3470241890104a416910415beb522d1bb88907",
+        "review_provenance": {
+          "ai_assisted": 7,
+          "human_verified": 7
+        }
+      },
+      "prompt_tokens": 13840,
+      "completion_tokens": 2708
+    },
+    {
+      "name": "BM25-wide",
+      "split": "test",
+      "directory": "results/final-agent/bm25-wide-test-v2",
+      "summary": {
+        "cases": 7,
+        "successful": 7,
+        "errors": 0,
+        "median_ms": 56308.824699837714,
+        "cost_usd": null,
+        "cost_note": "Usage recorded; set actual provider pricing externally. No inferred dollar cost.",
+        "context_evidence_rate": {
+          "n": 5,
+          "N": 5,
+          "rate": 1.0
+        },
+        "average_context_chars": 5097.714285714285,
+        "tool_use": {
+          "n": 7,
+          "N": 7,
+          "rate": 1.0
+        },
+        "search_call_counts": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          4,
+          4
+        ],
+        "requires_human_review": [
+          "answer_grade",
+          "citation_support",
+          "abstention_correct",
+          "context_grade",
+          "reasons"
+        ],
+        "provider_call_count": 25
+      },
+      "audit": {
+        "cases": 7,
+        "provider_errors": 0,
+        "tool_use": {
+          "n": 7,
+          "N": 7
+        },
+        "grounded_answer": {
+          "0": 0,
+          "1": 1,
+          "2": 4,
+          "N": 5,
+          "mean": 1.8
+        },
+        "citation_validity": {
+          "n": 4,
+          "N": 5
+        },
+        "answer_citation_coverage": {
+          "n": 5,
+          "N": 5
+        },
+        "abstention": {
+          "n": 2,
+          "N": 2
+        },
+        "false_abstention": {
+          "n": 0,
+          "N": 5
+        },
+        "context_grades": {
+          "0": 2,
+          "1": 0,
+          "2": 5
+        },
+        "reviews_hash": "6eede34b0c6c2e180bcdbca76542e24c027ec0f4f1a10f6ee95f8aec03d2eab5",
+        "traces_hash": "63d04bcf8498e69831e067a804380e84aa82db221c0ccd982b9b12d529871f39",
+        "review_provenance": {
+          "ai_assisted": 7,
+          "human_verified": 7
+        }
+      },
+      "prompt_tokens": 32948,
+      "completion_tokens": 3295
+    }
+  ],
+  "review_type": "ai_assisted",
+  "human_verified": true,
+  "source_code_sha256": {
+    "src/rag/agent.py": "eaad8752322482cf0af10f10bf60e6ad937e20b288c40893990904a207f1e28d",
+    "src/rag/cli.py": "3442586c1d6ad49d9e7134514141829aae0112ff5a0e6efed91324824188dd67",
+    "src/rag/common.py": "e5adbceda904dcc810ba74c6d961a62b6edf82995e7a806e6f9858a4346219fc",
+    "src/rag/evaluation.py": "b8ea75b7dc6010cec127811179296dcab63cb7b1a6ea6e3cd4d929919d263ba4",
+    "src/rag/providers.py": "9b81db347b1f9634ab2fbc4ce5031d2e85249fd5e07284a0d3bfa90f1bc4ee51",
+    "src/rag/qdrant_store.py": "95f5e73a68360a01ab14a0350d5b41cccc6ce8bee670de2dd54d3fd27795f9c6",
+    "src/rag/retrieval.py": "9814152b4e81f9c975a13b936cdf3a92b4e0729969c05db451ff77473c3697ae",
+    "src/rag/settings.py": "5b64a7930eb9ef401a3dcc8778c38acd286da9e2ae19f246043940259862fc00",
+    "src/rag/__init__.py": "db92977a3c9fc33d80662dc261a7e52291e64226751a33f57270e8ecdf407f84",
+    "src/rag/__main__.py": "dacbd8e271ddbe887f06af0084a22d713e03d2040066a5cb8bc66f86f6c1b39f"
+  },
+  "python": "3.12.10",
+  "selected_config": "configs/bm25-wide.json",
+  "baseline_config": "configs/bm25.json"
+}

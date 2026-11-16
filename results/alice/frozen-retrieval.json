@@ -1,0 +1,226 @@
+{
+  "identity": {
+    "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+    "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+    "config_hash": "c46681e2231078a051f4c4901b15825e1a97730c0dcecbbdc7e43af03175c30c",
+    "provider": {
+      "provider": "fastembed",
+      "model": "sentence-transformers/all-MiniLM-L6-v2",
+      "query_method": "query_embed"
+    },
+    "chat_model": "qwen2.5:7b",
+    "chat_provider": "ollama",
+    "chat_url": "http://localhost:11434",
+    "vector_store": "qdrant",
+    "mode": "agent",
+    "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+  },
+  "allowed_config_hashes": [
+    "c46681e2231078a051f4c4901b15825e1a97730c0dcecbbdc7e43af03175c30c",
+    "b57c43e04c2a5554d40108efcd58be1a95bfe40c7449b8f96dffa10458a9e942"
+  ],
+  "selected": {
+    "name": "bm25-wide",
+    "method": "bm25",
+    "top_k": 6,
+    "budget_chars": 12000,
+    "max_searches": 4,
+    "hypothesis": "A larger final context and more search turns can recover evidence below rank three, trading context length for recall."
+  },
+  "baseline": {
+    "name": "baseline-bm25",
+    "method": "bm25",
+    "top_k": 3,
+    "budget_chars": 6000,
+    "max_searches": 2,
+    "hypothesis": "Lexical baseline captures exact TLS terminology."
+  },
+  "reason": "Maximize dev context evidence, then Hit@3, Hit@1; ties prefer smaller context budget and top-k. Agent connection deferred by user.",
+  "dev_manifests": [
+    {
+      "identity": {
+        "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+        "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+        "config_hash": "b57c43e04c2a5554d40108efcd58be1a95bfe40c7449b8f96dffa10458a9e942",
+        "provider": {
+          "provider": "fastembed",
+          "model": "sentence-transformers/all-MiniLM-L6-v2",
+          "query_method": "query_embed"
+        },
+        "chat_model": "qwen2.5:7b",
+        "chat_provider": "ollama",
+        "chat_url": "http://localhost:11434",
+        "vector_store": "qdrant",
+        "mode": "retrieval",
+        "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+      },
+      "config": {
+        "name": "baseline-bm25",
+        "method": "bm25",
+        "top_k": 3,
+        "budget_chars": 6000,
+        "max_searches": 2,
+        "hypothesis": "Lexical baseline captures exact TLS terminology."
+      },
+      "split": "dev",
+      "mode": "retrieval",
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+    },
+    {
+      "identity": {
+        "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+        "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+        "config_hash": "b80a22f74298d0e0b0373287ed00292a6065323cea85bb2170d8823c6cf984fe",
+        "provider": {
+          "provider": "fastembed",
+          "model": "sentence-transformers/all-MiniLM-L6-v2",
+          "query_method": "query_embed"
+        },
+        "chat_model": "qwen2.5:7b",
+        "chat_provider": "ollama",
+        "chat_url": "http://localhost:11434",
+        "vector_store": "qdrant",
+        "mode": "retrieval",
+        "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+      },
+      "config": {
+        "name": "dense",
+        "method": "dense",
+        "top_k": 3,
+        "budget_chars": 6000,
+        "max_searches": 2,
+        "hypothesis": "Semantic embeddings recover paraphrased questions."
+      },
+      "split": "dev",
+      "mode": "retrieval",
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+    },
+    {
+      "identity": {
+        "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+        "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+        "config_hash": "1c687f1160e53742e2f63bfb92e7eee677603a3519c9dda37a1a18a9e71373a6",
+        "provider": {
+          "provider": "fastembed",
+          "model": "sentence-transformers/all-MiniLM-L6-v2",
+          "query_method": "query_embed"
+        },
+        "chat_model": "qwen2.5:7b",
+        "chat_provider": "ollama",
+        "chat_url": "http://localhost:11434",
+        "vector_store": "qdrant",
+        "mode": "retrieval",
+        "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+      },
+      "config": {
+        "name": "hybrid-rrf",
+        "method": "hybrid",
+        "top_k": 3,
+        "candidates": 12,
+        "rrf_k": 60,
+        "budget_chars": 6000,
+        "max_searches": 2,
+        "hypothesis": "RRF combines terminology matching with semantic recall without adding incomparable scores."
+      },
+      "split": "dev",
+      "mode": "retrieval",
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+    },
+    {
+      "identity": {
+        "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+        "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+        "config_hash": "de0720dfdadc4b346dc4b53a1ef1c0ddde2d7759178b81d8a7b62cf55af88219",
+        "provider": {
+          "provider": "fastembed",
+          "model": "sentence-transformers/all-MiniLM-L6-v2",
+          "query_method": "query_embed"
+        },
+        "chat_model": "qwen2.5:7b",
+        "chat_provider": "ollama",
+        "chat_url": "http://localhost:11434",
+        "vector_store": "qdrant",
+        "mode": "retrieval",
+        "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+      },
+      "config": {
+        "name": "hybrid-wide",
+        "method": "hybrid",
+        "top_k": 6,
+        "candidates": 24,
+        "rrf_k": 60,
+        "budget_chars": 12000,
+        "max_searches": 4,
+        "hypothesis": "A wider candidate pool, more evidence and more search turns may recover conditions and multi-hop facts, at higher latency."
+      },
+      "split": "dev",
+      "mode": "retrieval",
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+    },
+    {
+      "identity": {
+        "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+        "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+        "config_hash": "c46681e2231078a051f4c4901b15825e1a97730c0dcecbbdc7e43af03175c30c",
+        "provider": {
+          "provider": "fastembed",
+          "model": "sentence-transformers/all-MiniLM-L6-v2",
+          "query_method": "query_embed"
+        },
+        "chat_model": "qwen2.5:7b",
+        "chat_provider": "ollama",
+        "chat_url": "http://localhost:11434",
+        "vector_store": "qdrant",
+        "mode": "retrieval",
+        "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+      },
+      "config": {
+        "name": "bm25-wide",
+        "method": "bm25",
+        "top_k": 6,
+        "budget_chars": 12000,
+        "max_searches": 4,
+        "hypothesis": "A larger final context and more search turns can recover evidence below rank three, trading context length for recall."
+      },
+      "split": "dev",
+      "mode": "retrieval",
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+    },
+    {
+      "identity": {
+        "corpus_hash": "11aad5c8118649cd9c9568fdd1715694a10a87cb819fd960549c3fe6c9c937b9",
+        "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+        "config_hash": "97cfd81efeb1f89022d618ba910a08e72786910b76a7a49c3f75dacf03d48d77",
+        "provider": {
+          "provider": "fastembed",
+          "model": "sentence-transformers/all-MiniLM-L6-v2",
+          "query_method": "query_embed"
+        },
+        "chat_model": "qwen2.5:7b",
+        "chat_provider": "ollama",
+        "chat_url": "http://localhost:11434",
+        "vector_store": "qdrant",
+        "mode": "retrieval",
+        "index_manifest_hash": "a51f369329c3cc9fdb18419e8662f1c3c3bad3986b588581159c16feaf05b016"
+      },
+      "config": {
+        "name": "bm25-small-context",
+        "method": "bm25",
+        "top_k": 3,
+        "budget_chars": 1800,
+        "max_searches": 2,
+        "hypothesis": "A small budget exposes whole-chunk packing failures; compare with the 6000-character baseline."
+      },
+      "split": "dev",
+      "mode": "retrieval",
+      "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+      "index_manifest": "artifacts/qdrant-day6-b.manifest.json"
+    }
+  ],
+  "scope": "retrieval"
+}

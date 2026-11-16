@@ -1,0 +1,933 @@
+[
+  {
+    "query_id": "D7-T01",
+    "question": "Which four branches of Arithmetic does the Mock Turtle name in his education story?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "c778e44b8969b05255e0dae39e7b080a6857bf7e25971d89a6ba4ad94676102f",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 52,
+        "text": "“Reeling and Writhing, of course, to begin with,” the Mock Turtle replied; “and then the different branches of Arithmetic—Ambition, Distraction, Uglification, and Derision.”\n\n“I never heard of ‘Uglification,’” Alice ventured to say. “What is it?”\n\nThe Gryphon lifted up both its paws in surprise. “What! Never heard of uglifying!” it exclaimed. “You know what to beautify is, I suppose?”\n\n“Yes,” said Alice doubtfully: “it means—to—make—anything—prettier.”\n\n“Well, then,” the Gryphon went on, “if you don’t know what to uglify is, you _are_ a simpleton.”\n\nAlice did not feel encouraged to ask any more questions about it, so she turned to the Mock Turtle, and said “What else had you to learn?”",
+        "metadata": {
+          "chapter": 9,
+          "chapter_title": "The Mock Turtle’s Story",
+          "language": "en",
+          "chapter_start": 9681,
+          "chapter_end": 12593,
+          "start": 750,
+          "end": 1444
+        },
+        "score": 16.55250429232943,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "e245e71c07b520ab1b1b24d30f4a51b753d4e19a453e533afaadc5b1898493fe",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 51,
+        "text": "These words were followed by a very long silence, broken only by an occasional exclamation of “Hjckrrh!” from the Gryphon, and the constant heavy sobbing of the Mock Turtle. Alice was very nearly getting up and saying, “Thank you, sir, for your interesting story,” but she could not help thinking there _must_ be more to come, so she sat still and said nothing.\n\n“When we were little,” the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, “we went to school in the sea. The master was an old Turtle—we used to call him Tortoise—”\n\n“Why did you call him Tortoise, if he wasn’t one?” Alice asked.\n\n“We called him Tortoise because he taught us,” said the Mock Turtle angrily: “really you are very dull!”",
+        "metadata": {
+          "chapter": 9,
+          "chapter_title": "The Mock Turtle’s Story",
+          "language": "en",
+          "chapter_start": 7808,
+          "chapter_end": 9679,
+          "start": 575,
+          "end": 1312
+        },
+        "score": 11.240347340043137,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "f3e3757268eea0e84f0995f263ba526da914de7f6eb9572fa147d386d67cff81",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 30,
+        "text": "“If everybody minded their own business,” the Duchess said in a hoarse growl, “the world would go round a deal faster than it does.”\n\n“Which would _not_ be an advantage,” said Alice, who felt very glad to get an opportunity of showing off a little of her knowledge. “Just think of what work it would make with the day and night! You see the earth takes twenty-four hours to turn round on its axis—”\n\n“Talking of axes,” said the Duchess, “chop off her head!”\n\nAlice glanced rather anxiously at the cook, to see if she meant to take the hint; but the cook was busily stirring the soup, and seemed not to be listening, so she went on again: “Twenty-four hours, I _think_; or is it twelve? I—”",
+        "metadata": {
+          "chapter": 6,
+          "chapter_title": "Pig and Pepper",
+          "language": "en",
+          "chapter_start": 5646,
+          "chapter_end": 7764,
+          "start": 0,
+          "end": 689
+        },
+        "score": 10.574702641098256,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[c778e44b8969b05255e0dae39e7b080a6857bf7e25971d89a6ba4ad94676102f] source=https://www.gutenberg.org/ebooks/11 page=52\n“Reeling and Writhing, of course, to begin with,” the Mock Turtle replied; “and then the different branches of Arithmetic—Ambition, Distraction, Uglification, and Derision.”\n\n“I never heard of ‘Uglification,’” Alice ventured to say. “What is it?”\n\nThe Gryphon lifted up both its paws in surprise. “What! Never heard of uglifying!” it exclaimed. “You know what to beautify is, I suppose?”\n\n“Yes,” said Alice doubtfully: “it means—to—make—anything—prettier.”\n\n“Well, then,” the Gryphon went on, “if you don’t know what to uglify is, you _are_ a simpleton.”\n\nAlice did not feel encouraged to ask any more questions about it, so she turned to the Mock Turtle, and said “What else had you to learn?”\n\n[e245e71c07b520ab1b1b24d30f4a51b753d4e19a453e533afaadc5b1898493fe] source=https://www.gutenberg.org/ebooks/11 page=51\nThese words were followed by a very long silence, broken only by an occasional exclamation of “Hjckrrh!” from the Gryphon, and the constant heavy sobbing of the Mock Turtle. Alice was very nearly getting up and saying, “Thank you, sir, for your interesting story,” but she could not help thinking there _must_ be more to come, so she sat still and said nothing.\n\n“When we were little,” the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, “we went to school in the sea. The master was an old Turtle—we used to call him Tortoise—”\n\n“Why did you call him Tortoise, if he wasn’t one?” Alice asked.\n\n“We called him Tortoise because he taught us,” said the Mock Turtle angrily: “really you are very dull!”\n\n[f3e3757268eea0e84f0995f263ba526da914de7f6eb9572fa147d386d67cff81] source=https://www.gutenberg.org/ebooks/11 page=30\n“If everybody minded their own business,” the Duchess said in a hoarse growl, “the world would go round a deal faster than it does.”\n\n“Which would _not_ be an advantage,” said Alice, who felt very glad to get an opportunity of showing off a little of her knowledge. “Just think of what work it would make with the day and night! You see the earth takes twenty-four hours to turn round on its axis—”\n\n“Talking of axes,” said the Duchess, “chop off her head!”\n\nAlice glanced rather anxiously at the cook, to see if she meant to take the hint; but the cook was busily stirring the soup, and seemed not to be listening, so she went on again: “Twenty-four hours, I _think_; or is it twelve? I—”",
+    "context_chunks": [
+      {
+        "id": "c778e44b8969b05255e0dae39e7b080a6857bf7e25971d89a6ba4ad94676102f",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 52,
+        "text": "“Reeling and Writhing, of course, to begin with,” the Mock Turtle replied; “and then the different branches of Arithmetic—Ambition, Distraction, Uglification, and Derision.”\n\n“I never heard of ‘Uglification,’” Alice ventured to say. “What is it?”\n\nThe Gryphon lifted up both its paws in surprise. “What! Never heard of uglifying!” it exclaimed. “You know what to beautify is, I suppose?”\n\n“Yes,” said Alice doubtfully: “it means—to—make—anything—prettier.”\n\n“Well, then,” the Gryphon went on, “if you don’t know what to uglify is, you _are_ a simpleton.”\n\nAlice did not feel encouraged to ask any more questions about it, so she turned to the Mock Turtle, and said “What else had you to learn?”",
+        "metadata": {
+          "chapter": 9,
+          "chapter_title": "The Mock Turtle’s Story",
+          "language": "en",
+          "chapter_start": 9681,
+          "chapter_end": 12593,
+          "start": 750,
+          "end": 1444
+        },
+        "score": 16.55250429232943,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "e245e71c07b520ab1b1b24d30f4a51b753d4e19a453e533afaadc5b1898493fe",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 51,
+        "text": "These words were followed by a very long silence, broken only by an occasional exclamation of “Hjckrrh!” from the Gryphon, and the constant heavy sobbing of the Mock Turtle. Alice was very nearly getting up and saying, “Thank you, sir, for your interesting story,” but she could not help thinking there _must_ be more to come, so she sat still and said nothing.\n\n“When we were little,” the Mock Turtle went on at last, more calmly, though still sobbing a little now and then, “we went to school in the sea. The master was an old Turtle—we used to call him Tortoise—”\n\n“Why did you call him Tortoise, if he wasn’t one?” Alice asked.\n\n“We called him Tortoise because he taught us,” said the Mock Turtle angrily: “really you are very dull!”",
+        "metadata": {
+          "chapter": 9,
+          "chapter_title": "The Mock Turtle’s Story",
+          "language": "en",
+          "chapter_start": 7808,
+          "chapter_end": 9679,
+          "start": 575,
+          "end": 1312
+        },
+        "score": 11.240347340043137,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "f3e3757268eea0e84f0995f263ba526da914de7f6eb9572fa147d386d67cff81",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 30,
+        "text": "“If everybody minded their own business,” the Duchess said in a hoarse growl, “the world would go round a deal faster than it does.”\n\n“Which would _not_ be an advantage,” said Alice, who felt very glad to get an opportunity of showing off a little of her knowledge. “Just think of what work it would make with the day and night! You see the earth takes twenty-four hours to turn round on its axis—”\n\n“Talking of axes,” said the Duchess, “chop off her head!”\n\nAlice glanced rather anxiously at the cook, to see if she meant to take the hint; but the cook was busily stirring the soup, and seemed not to be listening, so she went on again: “Twenty-four hours, I _think_; or is it twelve? I—”",
+        "metadata": {
+          "chapter": 6,
+          "chapter_title": "Pig and Pepper",
+          "language": "en",
+          "chapter_start": 5646,
+          "chapter_end": 7764,
+          "start": 0,
+          "end": 689
+        },
+        "score": 10.574702641098256,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "c778e44b8969b05255e0dae39e7b080a6857bf7e25971d89a6ba4ad94676102f",
+      "e245e71c07b520ab1b1b24d30f4a51b753d4e19a453e533afaadc5b1898493fe",
+      "f3e3757268eea0e84f0995f263ba526da914de7f6eb9572fa147d386d67cff81"
+    ],
+    "elapsed_ms": 8.869499899446964,
+    "provider_calls": []
+  },
+  {
+    "query_id": "D7-T02",
+    "question": "Why do the jurors write their own names before the trial ends?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "52df49b8955d3fee54598b9d546f629346011429ccf1a67fce71c96e8ca49de0",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 60,
+        "text": "“They’re putting down their names,” the Gryphon whispered in reply, “for fear they should forget them before the end of the trial.”\n\n“Stupid things!” Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, “Silence in the court!” and the King put on his spectacles and looked anxiously round, to make out who was talking.\n\nAlice could see, as well as if she were looking over their shoulders, that all the jurors were writing down “stupid things!” on their slates, and she could even make out that one of them didn’t know how to spell “stupid,” and that he had to ask his neighbour to tell him. “A nice muddle their slates’ll be in before the trial’s over!” thought Alice.",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 1818,
+          "chapter_end": 3836,
+          "start": 0,
+          "end": 713
+        },
+        "score": 19.26710389622704,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 59,
+        "text": "“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.\n\nThe twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1816,
+          "start": 1186,
+          "end": 1816
+        },
+        "score": 11.62537980083116,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "2e1176084b8d4ab010d2ea5ccd6462f269250970ffcbd166cd184252bfebf9c8",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 38,
+        "text": "The Dormouse slowly opened his eyes. “I wasn’t asleep,” he said in a hoarse, feeble voice: “I heard every word you fellows were saying.”\n\n“Tell us a story!” said the March Hare.\n\n“Yes, please do!” pleaded Alice.\n\n“And be quick about it,” added the Hatter, “or you’ll be asleep again before it’s done.”\n\n“Once upon a time there were three little sisters,” the Dormouse began in a great hurry; “and their names were Elsie, Lacie, and Tillie; and they lived at the bottom of a well—”\n\n“What did they live on?” said Alice, who always took a great interest in questions of eating and drinking.\n\n“They lived on treacle,” said the Dormouse, after thinking a minute or two.\n\n“They couldn’t have done that, you know,” Alice gently remarked; “they’d have been ill.”",
+        "metadata": {
+          "chapter": 7,
+          "chapter_title": "A Mad Tea-Party",
+          "language": "en",
+          "chapter_start": 7421,
+          "chapter_end": 9294,
+          "start": 0,
+          "end": 755
+        },
+        "score": 9.030113657957749,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[52df49b8955d3fee54598b9d546f629346011429ccf1a67fce71c96e8ca49de0] source=https://www.gutenberg.org/ebooks/11 page=60\n“They’re putting down their names,” the Gryphon whispered in reply, “for fear they should forget them before the end of the trial.”\n\n“Stupid things!” Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, “Silence in the court!” and the King put on his spectacles and looked anxiously round, to make out who was talking.\n\nAlice could see, as well as if she were looking over their shoulders, that all the jurors were writing down “stupid things!” on their slates, and she could even make out that one of them didn’t know how to spell “stupid,” and that he had to ask his neighbour to tell him. “A nice muddle their slates’ll be in before the trial’s over!” thought Alice.\n\n[1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a] source=https://www.gutenberg.org/ebooks/11 page=59\n“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.\n\nThe twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”\n\n[2e1176084b8d4ab010d2ea5ccd6462f269250970ffcbd166cd184252bfebf9c8] source=https://www.gutenberg.org/ebooks/11 page=38\nThe Dormouse slowly opened his eyes. “I wasn’t asleep,” he said in a hoarse, feeble voice: “I heard every word you fellows were saying.”\n\n“Tell us a story!” said the March Hare.\n\n“Yes, please do!” pleaded Alice.\n\n“And be quick about it,” added the Hatter, “or you’ll be asleep again before it’s done.”\n\n“Once upon a time there were three little sisters,” the Dormouse began in a great hurry; “and their names were Elsie, Lacie, and Tillie; and they lived at the bottom of a well—”\n\n“What did they live on?” said Alice, who always took a great interest in questions of eating and drinking.\n\n“They lived on treacle,” said the Dormouse, after thinking a minute or two.\n\n“They couldn’t have done that, you know,” Alice gently remarked; “they’d have been ill.”",
+    "context_chunks": [
+      {
+        "id": "52df49b8955d3fee54598b9d546f629346011429ccf1a67fce71c96e8ca49de0",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 60,
+        "text": "“They’re putting down their names,” the Gryphon whispered in reply, “for fear they should forget them before the end of the trial.”\n\n“Stupid things!” Alice began in a loud, indignant voice, but she stopped hastily, for the White Rabbit cried out, “Silence in the court!” and the King put on his spectacles and looked anxiously round, to make out who was talking.\n\nAlice could see, as well as if she were looking over their shoulders, that all the jurors were writing down “stupid things!” on their slates, and she could even make out that one of them didn’t know how to spell “stupid,” and that he had to ask his neighbour to tell him. “A nice muddle their slates’ll be in before the trial’s over!” thought Alice.",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 1818,
+          "chapter_end": 3836,
+          "start": 0,
+          "end": 713
+        },
+        "score": 19.26710389622704,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 59,
+        "text": "“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.\n\nThe twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1816,
+          "start": 1186,
+          "end": 1816
+        },
+        "score": 11.62537980083116,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "2e1176084b8d4ab010d2ea5ccd6462f269250970ffcbd166cd184252bfebf9c8",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 38,
+        "text": "The Dormouse slowly opened his eyes. “I wasn’t asleep,” he said in a hoarse, feeble voice: “I heard every word you fellows were saying.”\n\n“Tell us a story!” said the March Hare.\n\n“Yes, please do!” pleaded Alice.\n\n“And be quick about it,” added the Hatter, “or you’ll be asleep again before it’s done.”\n\n“Once upon a time there were three little sisters,” the Dormouse began in a great hurry; “and their names were Elsie, Lacie, and Tillie; and they lived at the bottom of a well—”\n\n“What did they live on?” said Alice, who always took a great interest in questions of eating and drinking.\n\n“They lived on treacle,” said the Dormouse, after thinking a minute or two.\n\n“They couldn’t have done that, you know,” Alice gently remarked; “they’d have been ill.”",
+        "metadata": {
+          "chapter": 7,
+          "chapter_title": "A Mad Tea-Party",
+          "language": "en",
+          "chapter_start": 7421,
+          "chapter_end": 9294,
+          "start": 0,
+          "end": 755
+        },
+        "score": 9.030113657957749,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "52df49b8955d3fee54598b9d546f629346011429ccf1a67fce71c96e8ca49de0",
+      "1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a",
+      "2e1176084b8d4ab010d2ea5ccd6462f269250970ffcbd166cd184252bfebf9c8"
+    ],
+    "elapsed_ms": 8.260100148618221,
+    "provider_calls": []
+  },
+  {
+    "query_id": "D7-T03",
+    "question": "After writing all three dates for the beginning of the Hatter’s tea, what calculation did the jury do?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "4e3a4a7ea769c0be16e552a13122c253ceeb839d7bd9d3579cbe40b2d6da1b79",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 61,
+        "text": "“You ought to have finished,” said the King. “When did you begin?”\n\nThe Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse. “Fourteenth of March, I _think_ it was,” he said.\n\n“Fifteenth,” said the March Hare.\n\n“Sixteenth,” added the Dormouse.\n\n“Write that down,” the King said to the jury, and the jury eagerly wrote down all three dates on their slates, and then added them up, and reduced the answer to shillings and pence.\n\n“Take off your hat,” the King said to the Hatter.\n\n“It isn’t mine,” said the Hatter.\n\n“_Stolen!_” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.\n\n“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 3838,
+          "chapter_end": 5805,
+          "start": 0,
+          "end": 755
+        },
+        "score": 17.499596981899955,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 59,
+        "text": "“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.\n\nThe twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1816,
+          "start": 1186,
+          "end": 1816
+        },
+        "score": 13.968853517179793,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "ef8c0b2acd9295789a81b0a9444d893e9f40cb3c06598cdad2e663b2f26975e2",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 34,
+        "text": "Alice looked all round the table, but there was nothing on it but tea. “I don’t see any wine,” she remarked.\n\n“There isn’t any,” said the March Hare.\n\n“Then it wasn’t very civil of you to offer it,” said Alice angrily.\n\n“It wasn’t very civil of you to sit down without being invited,” said the March Hare.\n\n“I didn’t know it was _your_ table,” said Alice; “it’s laid for a great many more than three.”\n\n“Your hair wants cutting,” said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.\n\n“You should learn not to make personal remarks,” Alice said with some severity; “it’s very rude.”\n\nThe Hatter opened his eyes very wide on hearing this; but all he _said_ was, “Why is a raven like a writing-desk?”",
+        "metadata": {
+          "chapter": 7,
+          "chapter_title": "A Mad Tea-Party",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1879,
+          "start": 706,
+          "end": 1463
+        },
+        "score": 13.84632107161724,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[4e3a4a7ea769c0be16e552a13122c253ceeb839d7bd9d3579cbe40b2d6da1b79] source=https://www.gutenberg.org/ebooks/11 page=61\n“You ought to have finished,” said the King. “When did you begin?”\n\nThe Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse. “Fourteenth of March, I _think_ it was,” he said.\n\n“Fifteenth,” said the March Hare.\n\n“Sixteenth,” added the Dormouse.\n\n“Write that down,” the King said to the jury, and the jury eagerly wrote down all three dates on their slates, and then added them up, and reduced the answer to shillings and pence.\n\n“Take off your hat,” the King said to the Hatter.\n\n“It isn’t mine,” said the Hatter.\n\n“_Stolen!_” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.\n\n“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”\n\n[1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a] source=https://www.gutenberg.org/ebooks/11 page=59\n“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.\n\nThe twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”\n\n[ef8c0b2acd9295789a81b0a9444d893e9f40cb3c06598cdad2e663b2f26975e2] source=https://www.gutenberg.org/ebooks/11 page=34\nAlice looked all round the table, but there was nothing on it but tea. “I don’t see any wine,” she remarked.\n\n“There isn’t any,” said the March Hare.\n\n“Then it wasn’t very civil of you to offer it,” said Alice angrily.\n\n“It wasn’t very civil of you to sit down without being invited,” said the March Hare.\n\n“I didn’t know it was _your_ table,” said Alice; “it’s laid for a great many more than three.”\n\n“Your hair wants cutting,” said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.\n\n“You should learn not to make personal remarks,” Alice said with some severity; “it’s very rude.”\n\nThe Hatter opened his eyes very wide on hearing this; but all he _said_ was, “Why is a raven like a writing-desk?”",
+    "context_chunks": [
+      {
+        "id": "4e3a4a7ea769c0be16e552a13122c253ceeb839d7bd9d3579cbe40b2d6da1b79",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 61,
+        "text": "“You ought to have finished,” said the King. “When did you begin?”\n\nThe Hatter looked at the March Hare, who had followed him into the court, arm-in-arm with the Dormouse. “Fourteenth of March, I _think_ it was,” he said.\n\n“Fifteenth,” said the March Hare.\n\n“Sixteenth,” added the Dormouse.\n\n“Write that down,” the King said to the jury, and the jury eagerly wrote down all three dates on their slates, and then added them up, and reduced the answer to shillings and pence.\n\n“Take off your hat,” the King said to the Hatter.\n\n“It isn’t mine,” said the Hatter.\n\n“_Stolen!_” the King exclaimed, turning to the jury, who instantly made a memorandum of the fact.\n\n“I keep them to sell,” the Hatter added as an explanation; “I’ve none of my own. I’m a hatter.”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 3838,
+          "chapter_end": 5805,
+          "start": 0,
+          "end": 755
+        },
+        "score": 17.499596981899955,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 59,
+        "text": "“And that’s the jury-box,” thought Alice, “and those twelve creatures,” (she was obliged to say “creatures,” you see, because some of them were animals, and some were birds,) “I suppose they are the jurors.” She said this last word two or three times over to herself, being rather proud of it: for she thought, and rightly too, that very few little girls of her age knew the meaning of it at all. However, “jury-men” would have done just as well.\n\nThe twelve jurors were all writing very busily on slates. “What are they doing?” Alice whispered to the Gryphon. “They can’t have anything to put down yet, before the trial’s begun.”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1816,
+          "start": 1186,
+          "end": 1816
+        },
+        "score": 13.968853517179793,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "ef8c0b2acd9295789a81b0a9444d893e9f40cb3c06598cdad2e663b2f26975e2",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 34,
+        "text": "Alice looked all round the table, but there was nothing on it but tea. “I don’t see any wine,” she remarked.\n\n“There isn’t any,” said the March Hare.\n\n“Then it wasn’t very civil of you to offer it,” said Alice angrily.\n\n“It wasn’t very civil of you to sit down without being invited,” said the March Hare.\n\n“I didn’t know it was _your_ table,” said Alice; “it’s laid for a great many more than three.”\n\n“Your hair wants cutting,” said the Hatter. He had been looking at Alice for some time with great curiosity, and this was his first speech.\n\n“You should learn not to make personal remarks,” Alice said with some severity; “it’s very rude.”\n\nThe Hatter opened his eyes very wide on hearing this; but all he _said_ was, “Why is a raven like a writing-desk?”",
+        "metadata": {
+          "chapter": 7,
+          "chapter_title": "A Mad Tea-Party",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1879,
+          "start": 706,
+          "end": 1463
+        },
+        "score": 13.84632107161724,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "4e3a4a7ea769c0be16e552a13122c253ceeb839d7bd9d3579cbe40b2d6da1b79",
+      "1d219d2b734257219570a7200db163095e5757b9cb06ab5b7ff59c3bc041d39a",
+      "ef8c0b2acd9295789a81b0a9444d893e9f40cb3c06598cdad2e663b2f26975e2"
+    ],
+    "elapsed_ms": 10.80430019646883,
+    "provider_calls": []
+  },
+  {
+    "query_id": "D7-T04",
+    "question": "What mistake did Alice make while putting the Lizard back in the jury-box, and how did she fix it?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "5ae97a93b30de4296cebf117501894116b17502433c59c2809b258c9cdca0391",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 64,
+        "text": "“The trial cannot proceed,” said the King in a very grave voice, “until all the jurymen are back in their proper places—_all_,” he repeated with great emphasis, looking hard at Alice as he said so.\n\nAlice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move. She soon got it out again, and put it right; “not that it signifies much,” she said to herself; “I should think it would be _quite_ as much use in the trial one way up as the other.”",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1804,
+          "start": 706,
+          "end": 1288
+        },
+        "score": 13.333838523943449,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "fa8da12edce33fb12b6a0af481117459c9f99b25c952de1d1918ff0174bdace0",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 64,
+        "text": "“Here!” cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes, and she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the crowd below, and there they lay sprawling about, reminding her very much of a globe of goldfish she had accidentally upset the week before.\n\n“Oh, I _beg_ your pardon!” she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head, and she had a vague sort of idea that they must be collected at once and put back into the jury-box, or they would die.",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1804,
+          "start": 0,
+          "end": 704
+        },
+        "score": 12.622392185873842,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "a53e0fca4bcb9be819f1a138ba9887612d1381b0b89f38821da362b0699fddaf",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 64,
+        "text": "As soon as the jury had a little recovered from the shock of being upset, and their slates and pencils had been found and handed back to them, they set to work very diligently to write out a history of the accident, all except the Lizard, who seemed too much overcome to do anything but sit with its mouth open, gazing up into the roof of the court.\n\n“What do you know about this business?” the King said to Alice.\n\n“Nothing,” said Alice.\n\n“Nothing _whatever?_” persisted the King.\n\n“Nothing whatever,” said Alice.",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1804,
+          "start": 1290,
+          "end": 1804
+        },
+        "score": 10.55480942649498,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[5ae97a93b30de4296cebf117501894116b17502433c59c2809b258c9cdca0391] source=https://www.gutenberg.org/ebooks/11 page=64\n“The trial cannot proceed,” said the King in a very grave voice, “until all the jurymen are back in their proper places—_all_,” he repeated with great emphasis, looking hard at Alice as he said so.\n\nAlice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move. She soon got it out again, and put it right; “not that it signifies much,” she said to herself; “I should think it would be _quite_ as much use in the trial one way up as the other.”\n\n[fa8da12edce33fb12b6a0af481117459c9f99b25c952de1d1918ff0174bdace0] source=https://www.gutenberg.org/ebooks/11 page=64\n“Here!” cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes, and she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the crowd below, and there they lay sprawling about, reminding her very much of a globe of goldfish she had accidentally upset the week before.\n\n“Oh, I _beg_ your pardon!” she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head, and she had a vague sort of idea that they must be collected at once and put back into the jury-box, or they would die.\n\n[a53e0fca4bcb9be819f1a138ba9887612d1381b0b89f38821da362b0699fddaf] source=https://www.gutenberg.org/ebooks/11 page=64\nAs soon as the jury had a little recovered from the shock of being upset, and their slates and pencils had been found and handed back to them, they set to work very diligently to write out a history of the accident, all except the Lizard, who seemed too much overcome to do anything but sit with its mouth open, gazing up into the roof of the court.\n\n“What do you know about this business?” the King said to Alice.\n\n“Nothing,” said Alice.\n\n“Nothing _whatever?_” persisted the King.\n\n“Nothing whatever,” said Alice.",
+    "context_chunks": [
+      {
+        "id": "5ae97a93b30de4296cebf117501894116b17502433c59c2809b258c9cdca0391",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 64,
+        "text": "“The trial cannot proceed,” said the King in a very grave voice, “until all the jurymen are back in their proper places—_all_,” he repeated with great emphasis, looking hard at Alice as he said so.\n\nAlice looked at the jury-box, and saw that, in her haste, she had put the Lizard in head downwards, and the poor little thing was waving its tail about in a melancholy way, being quite unable to move. She soon got it out again, and put it right; “not that it signifies much,” she said to herself; “I should think it would be _quite_ as much use in the trial one way up as the other.”",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1804,
+          "start": 706,
+          "end": 1288
+        },
+        "score": 13.333838523943449,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "fa8da12edce33fb12b6a0af481117459c9f99b25c952de1d1918ff0174bdace0",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 64,
+        "text": "“Here!” cried Alice, quite forgetting in the flurry of the moment how large she had grown in the last few minutes, and she jumped up in such a hurry that she tipped over the jury-box with the edge of her skirt, upsetting all the jurymen on to the heads of the crowd below, and there they lay sprawling about, reminding her very much of a globe of goldfish she had accidentally upset the week before.\n\n“Oh, I _beg_ your pardon!” she exclaimed in a tone of great dismay, and began picking them up again as quickly as she could, for the accident of the goldfish kept running in her head, and she had a vague sort of idea that they must be collected at once and put back into the jury-box, or they would die.",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1804,
+          "start": 0,
+          "end": 704
+        },
+        "score": 12.622392185873842,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "a53e0fca4bcb9be819f1a138ba9887612d1381b0b89f38821da362b0699fddaf",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 64,
+        "text": "As soon as the jury had a little recovered from the shock of being upset, and their slates and pencils had been found and handed back to them, they set to work very diligently to write out a history of the accident, all except the Lizard, who seemed too much overcome to do anything but sit with its mouth open, gazing up into the roof of the court.\n\n“What do you know about this business?” the King said to Alice.\n\n“Nothing,” said Alice.\n\n“Nothing _whatever?_” persisted the King.\n\n“Nothing whatever,” said Alice.",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 1804,
+          "start": 1290,
+          "end": 1804
+        },
+        "score": 10.55480942649498,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "5ae97a93b30de4296cebf117501894116b17502433c59c2809b258c9cdca0391",
+      "fa8da12edce33fb12b6a0af481117459c9f99b25c952de1d1918ff0174bdace0",
+      "a53e0fca4bcb9be819f1a138ba9887612d1381b0b89f38821da362b0699fddaf"
+    ],
+    "elapsed_ms": 9.919099975377321,
+    "provider_calls": []
+  },
+  {
+    "query_id": "D7-T05",
+    "question": "How did Bill resume making marks on his slate after the Queen threw an inkstand at him?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 67,
+        "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.\n\n“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 5534,
+          "chapter_end": 7477,
+          "start": 1421,
+          "end": 1943
+        },
+        "score": 21.859964165505485,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "d3d1cfd88efe1302ef20ff10c9181f0da820c6e5c4eb268bbe6befd217d58b92",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 60,
+        "text": "One of the jurors had a pencil that squeaked. This of course, Alice could _not_ stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away. She did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.\n\n“Herald, read the accusation!” said the King.\n\nOn this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment scroll, and read as follows:—\n\n“The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 1818,
+          "chapter_end": 3836,
+          "start": 715,
+          "end": 1499
+        },
+        "score": 15.85743143618658,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "c7fb89de4bf53e116a92d63102d4464bd06fe63d61bdce88f1df9a523a7cf254",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 18,
+        "text": "She waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: “Where’s the other ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill! fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em together first—they don’t reach half high enough yet—Oh! they’ll do well enough; don’t be particular—Here, Bill! catch hold of this rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down! Heads below!” (a loud crash)—“Now, who did that?—It was Bill, I fancy—Who’s to go down the chimney?—Nay, _I_ shan’t! _You_ do it!—_That_ I won’t, then!—Bill’s to go down—Here, Bill! the master says you’re to go down the chimney!”",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 5985,
+          "chapter_end": 7913,
+          "start": 1164,
+          "end": 1928
+        },
+        "score": 12.070155724726426,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e] source=https://www.gutenberg.org/ebooks/11 page=67\n“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.\n\n“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)\n\n[d3d1cfd88efe1302ef20ff10c9181f0da820c6e5c4eb268bbe6befd217d58b92] source=https://www.gutenberg.org/ebooks/11 page=60\nOne of the jurors had a pencil that squeaked. This of course, Alice could _not_ stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away. She did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.\n\n“Herald, read the accusation!” said the King.\n\nOn this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment scroll, and read as follows:—\n\n“The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!”\n\n[c7fb89de4bf53e116a92d63102d4464bd06fe63d61bdce88f1df9a523a7cf254] source=https://www.gutenberg.org/ebooks/11 page=18\nShe waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: “Where’s the other ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill! fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em together first—they don’t reach half high enough yet—Oh! they’ll do well enough; don’t be particular—Here, Bill! catch hold of this rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down! Heads below!” (a loud crash)—“Now, who did that?—It was Bill, I fancy—Who’s to go down the chimney?—Nay, _I_ shan’t! _You_ do it!—_That_ I won’t, then!—Bill’s to go down—Here, Bill! the master says you’re to go down the chimney!”",
+    "context_chunks": [
+      {
+        "id": "4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 67,
+        "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.\n\n“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 5534,
+          "chapter_end": 7477,
+          "start": 1421,
+          "end": 1943
+        },
+        "score": 21.859964165505485,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "d3d1cfd88efe1302ef20ff10c9181f0da820c6e5c4eb268bbe6befd217d58b92",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 60,
+        "text": "One of the jurors had a pencil that squeaked. This of course, Alice could _not_ stand, and she went round the court and got behind him, and very soon found an opportunity of taking it away. She did it so quickly that the poor little juror (it was Bill, the Lizard) could not make out at all what had become of it; so, after hunting all about for it, he was obliged to write with one finger for the rest of the day; and this was of very little use, as it left no mark on the slate.\n\n“Herald, read the accusation!” said the King.\n\nOn this the White Rabbit blew three blasts on the trumpet, and then unrolled the parchment scroll, and read as follows:—\n\n“The Queen of Hearts, she made some tarts, All on a summer day: The Knave of Hearts, he stole those tarts, And took them quite away!”",
+        "metadata": {
+          "chapter": 11,
+          "chapter_title": "Who Stole the Tarts?",
+          "language": "en",
+          "chapter_start": 1818,
+          "chapter_end": 3836,
+          "start": 715,
+          "end": 1499
+        },
+        "score": 15.85743143618658,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "c7fb89de4bf53e116a92d63102d4464bd06fe63d61bdce88f1df9a523a7cf254",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 18,
+        "text": "She waited for some time without hearing anything more: at last came a rumbling of little cartwheels, and the sound of a good many voices all talking together: she made out the words: “Where’s the other ladder?—Why, I hadn’t to bring but one; Bill’s got the other—Bill! fetch it here, lad!—Here, put ’em up at this corner—No, tie ’em together first—they don’t reach half high enough yet—Oh! they’ll do well enough; don’t be particular—Here, Bill! catch hold of this rope—Will the roof bear?—Mind that loose slate—Oh, it’s coming down! Heads below!” (a loud crash)—“Now, who did that?—It was Bill, I fancy—Who’s to go down the chimney?—Nay, _I_ shan’t! _You_ do it!—_That_ I won’t, then!—Bill’s to go down—Here, Bill! the master says you’re to go down the chimney!”",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 5985,
+          "chapter_end": 7913,
+          "start": 1164,
+          "end": 1928
+        },
+        "score": 12.070155724726426,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e",
+      "d3d1cfd88efe1302ef20ff10c9181f0da820c6e5c4eb268bbe6befd217d58b92",
+      "c7fb89de4bf53e116a92d63102d4464bd06fe63d61bdce88f1df9a523a7cf254"
+    ],
+    "elapsed_ms": 8.738700300455093,
+    "provider_calls": []
+  },
+  {
+    "query_id": "D7-T-N1",
+    "question": "What is the exact age in years of Bill the Lizard?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "61ef66d1126229755ef6d784a9b08b1174ed40e659dadd7feba6a1a12344972e",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 19,
+        "text": "“Oh! So Bill’s got to come down the chimney, has he?” said Alice to herself. “Shy, they seem to put everything upon Bill! I wouldn’t be in Bill’s place for a good deal: this fireplace is narrow, to be sure; but I _think_ I can kick a little!”\n\nShe drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldn’t guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself “This is Bill,” she gave one sharp kick, and waited to see what would happen next.",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 7915,
+          "chapter_end": 9814,
+          "start": 0,
+          "end": 553
+        },
+        "score": 10.0595128371536,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "617cb692f080319a4786afcf106fdb785acb45aec271f7af3c69aeae978447ee",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 20,
+        "text": "So she swallowed one of the cakes, and was delighted to find that she began shrinking directly. As soon as she was small enough to get through the door, she ran out of the house, and found quite a crowd of little animals and birds waiting outside. The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle. They all made a rush at Alice the moment she appeared; but she ran off as hard as she could, and soon found herself safe in a thick wood.\n\n“The first thing I’ve got to do,” said Alice to herself, as she wandered about in the wood, “is to grow to my right size again; and the second thing is to find my way into that lovely garden. I think that will be the best plan.”",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 9816,
+          "chapter_end": 13836,
+          "start": 317,
+          "end": 1061
+        },
+        "score": 8.625856722910727,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 67,
+        "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.\n\n“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 5534,
+          "chapter_end": 7477,
+          "start": 1421,
+          "end": 1943
+        },
+        "score": 7.672520232541996,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[61ef66d1126229755ef6d784a9b08b1174ed40e659dadd7feba6a1a12344972e] source=https://www.gutenberg.org/ebooks/11 page=19\n“Oh! So Bill’s got to come down the chimney, has he?” said Alice to herself. “Shy, they seem to put everything upon Bill! I wouldn’t be in Bill’s place for a good deal: this fireplace is narrow, to be sure; but I _think_ I can kick a little!”\n\nShe drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldn’t guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself “This is Bill,” she gave one sharp kick, and waited to see what would happen next.\n\n[617cb692f080319a4786afcf106fdb785acb45aec271f7af3c69aeae978447ee] source=https://www.gutenberg.org/ebooks/11 page=20\nSo she swallowed one of the cakes, and was delighted to find that she began shrinking directly. As soon as she was small enough to get through the door, she ran out of the house, and found quite a crowd of little animals and birds waiting outside. The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle. They all made a rush at Alice the moment she appeared; but she ran off as hard as she could, and soon found herself safe in a thick wood.\n\n“The first thing I’ve got to do,” said Alice to herself, as she wandered about in the wood, “is to grow to my right size again; and the second thing is to find my way into that lovely garden. I think that will be the best plan.”\n\n[4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e] source=https://www.gutenberg.org/ebooks/11 page=67\n“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.\n\n“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+    "context_chunks": [
+      {
+        "id": "61ef66d1126229755ef6d784a9b08b1174ed40e659dadd7feba6a1a12344972e",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 19,
+        "text": "“Oh! So Bill’s got to come down the chimney, has he?” said Alice to herself. “Shy, they seem to put everything upon Bill! I wouldn’t be in Bill’s place for a good deal: this fireplace is narrow, to be sure; but I _think_ I can kick a little!”\n\nShe drew her foot as far down the chimney as she could, and waited till she heard a little animal (she couldn’t guess of what sort it was) scratching and scrambling about in the chimney close above her: then, saying to herself “This is Bill,” she gave one sharp kick, and waited to see what would happen next.",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 7915,
+          "chapter_end": 9814,
+          "start": 0,
+          "end": 553
+        },
+        "score": 10.0595128371536,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "617cb692f080319a4786afcf106fdb785acb45aec271f7af3c69aeae978447ee",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 20,
+        "text": "So she swallowed one of the cakes, and was delighted to find that she began shrinking directly. As soon as she was small enough to get through the door, she ran out of the house, and found quite a crowd of little animals and birds waiting outside. The poor little Lizard, Bill, was in the middle, being held up by two guinea-pigs, who were giving it something out of a bottle. They all made a rush at Alice the moment she appeared; but she ran off as hard as she could, and soon found herself safe in a thick wood.\n\n“The first thing I’ve got to do,” said Alice to herself, as she wandered about in the wood, “is to grow to my right size again; and the second thing is to find my way into that lovely garden. I think that will be the best plan.”",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 9816,
+          "chapter_end": 13836,
+          "start": 317,
+          "end": 1061
+        },
+        "score": 8.625856722910727,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 67,
+        "text": "“Why, there they are!” said the King triumphantly, pointing to the tarts on the table. “Nothing can be clearer than _that_. Then again—‘_before she had this fit_—’ you never had fits, my dear, I think?” he said to the Queen.\n\n“Never!” said the Queen furiously, throwing an inkstand at the Lizard as she spoke. (The unfortunate little Bill had left off writing on his slate with one finger, as he found it made no mark; but he now hastily began again, using the ink, that was trickling down his face, as long as it lasted.)",
+        "metadata": {
+          "chapter": 12,
+          "chapter_title": "Alice’s Evidence",
+          "language": "en",
+          "chapter_start": 5534,
+          "chapter_end": 7477,
+          "start": 1421,
+          "end": 1943
+        },
+        "score": 7.672520232541996,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "61ef66d1126229755ef6d784a9b08b1174ed40e659dadd7feba6a1a12344972e",
+      "617cb692f080319a4786afcf106fdb785acb45aec271f7af3c69aeae978447ee",
+      "4dc73d58a323236207af1a75aea539a79e6809f8b985de91578b3dab16397d9e"
+    ],
+    "elapsed_ms": 5.670000333338976,
+    "provider_calls": []
+  },
+  {
+    "query_id": "D7-T-N2",
+    "question": "What is the street number and postal address of Alice’s home?",
+    "events": [],
+    "citations": [],
+    "status": "retrieved",
+    "results": [
+      {
+        "id": "a816788d4f3276d19517353adaac60ea21e4e5c651bbcac3ac21ad113ca7cb0a",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 50,
+        "text": "Then the Queen left off, quite out of breath, and said to Alice, “Have you seen the Mock Turtle yet?”\n\n“No,” said Alice. “I don’t even know what a Mock Turtle is.”\n\n“It’s the thing Mock Turtle Soup is made from,” said the Queen.\n\n“I never saw one, or heard of one,” said Alice.\n\n“Come on, then,” said the Queen, “and he shall tell you his history.”\n\nAs they walked off together, Alice heard the King say in a low voice, to the company generally, “You are all pardoned.” “Come, _that’s_ a good thing!” she said to herself, for she had felt quite unhappy at the number of executions the Queen had ordered.",
+        "metadata": {
+          "chapter": 9,
+          "chapter_title": "The Mock Turtle’s Story",
+          "language": "en",
+          "chapter_start": 5815,
+          "chapter_end": 7806,
+          "start": 0,
+          "end": 603
+        },
+        "score": 7.9196836361759475,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "70d2eab33654c990b78457a2e19729e962a27535c22a8e1c5a4338e4bbcc76c6",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 15,
+        "text": "Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, “Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!” And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 2000,
+          "start": 660,
+          "end": 1026
+        },
+        "score": 6.24737794062,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "c42dc08cc787dbc454f174a907746d5f5cfd95a43ff8060f0d8f3d9671c6e1ae",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 17,
+        "text": "“It was much pleasanter at home,” thought poor Alice, “when one wasn’t always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and yet—it’s rather curious, you know, this sort of life! I do wonder what _can_ have happened to me! When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one! There ought to be a book written about me, that there ought! And when I grow up, I’ll write one—but I’m grown up now,” she added in a sorrowful tone; “at least there’s no room to grow up any more _here_.”",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 3809,
+          "chapter_end": 5983,
+          "start": 0,
+          "end": 633
+        },
+        "score": 5.948843919014575,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context": "[a816788d4f3276d19517353adaac60ea21e4e5c651bbcac3ac21ad113ca7cb0a] source=https://www.gutenberg.org/ebooks/11 page=50\nThen the Queen left off, quite out of breath, and said to Alice, “Have you seen the Mock Turtle yet?”\n\n“No,” said Alice. “I don’t even know what a Mock Turtle is.”\n\n“It’s the thing Mock Turtle Soup is made from,” said the Queen.\n\n“I never saw one, or heard of one,” said Alice.\n\n“Come on, then,” said the Queen, “and he shall tell you his history.”\n\nAs they walked off together, Alice heard the King say in a low voice, to the company generally, “You are all pardoned.” “Come, _that’s_ a good thing!” she said to herself, for she had felt quite unhappy at the number of executions the Queen had ordered.\n\n[70d2eab33654c990b78457a2e19729e962a27535c22a8e1c5a4338e4bbcc76c6] source=https://www.gutenberg.org/ebooks/11 page=15\nVery soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, “Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!” And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.\n\n[c42dc08cc787dbc454f174a907746d5f5cfd95a43ff8060f0d8f3d9671c6e1ae] source=https://www.gutenberg.org/ebooks/11 page=17\n“It was much pleasanter at home,” thought poor Alice, “when one wasn’t always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and yet—it’s rather curious, you know, this sort of life! I do wonder what _can_ have happened to me! When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one! There ought to be a book written about me, that there ought! And when I grow up, I’ll write one—but I’m grown up now,” she added in a sorrowful tone; “at least there’s no room to grow up any more _here_.”",
+    "context_chunks": [
+      {
+        "id": "a816788d4f3276d19517353adaac60ea21e4e5c651bbcac3ac21ad113ca7cb0a",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 50,
+        "text": "Then the Queen left off, quite out of breath, and said to Alice, “Have you seen the Mock Turtle yet?”\n\n“No,” said Alice. “I don’t even know what a Mock Turtle is.”\n\n“It’s the thing Mock Turtle Soup is made from,” said the Queen.\n\n“I never saw one, or heard of one,” said Alice.\n\n“Come on, then,” said the Queen, “and he shall tell you his history.”\n\nAs they walked off together, Alice heard the King say in a low voice, to the company generally, “You are all pardoned.” “Come, _that’s_ a good thing!” she said to herself, for she had felt quite unhappy at the number of executions the Queen had ordered.",
+        "metadata": {
+          "chapter": 9,
+          "chapter_title": "The Mock Turtle’s Story",
+          "language": "en",
+          "chapter_start": 5815,
+          "chapter_end": 7806,
+          "start": 0,
+          "end": 603
+        },
+        "score": 7.9196836361759475,
+        "strategy": "bm25",
+        "rank": 1
+      },
+      {
+        "id": "70d2eab33654c990b78457a2e19729e962a27535c22a8e1c5a4338e4bbcc76c6",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 15,
+        "text": "Very soon the Rabbit noticed Alice, as she went hunting about, and called out to her in an angry tone, “Why, Mary Ann, what _are_ you doing out here? Run home this moment, and fetch me a pair of gloves and a fan! Quick, now!” And Alice was so much frightened that she ran off at once in the direction it pointed to, without trying to explain the mistake it had made.",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 0,
+          "chapter_end": 2000,
+          "start": 660,
+          "end": 1026
+        },
+        "score": 6.24737794062,
+        "strategy": "bm25",
+        "rank": 2
+      },
+      {
+        "id": "c42dc08cc787dbc454f174a907746d5f5cfd95a43ff8060f0d8f3d9671c6e1ae",
+        "source_id": "pg11",
+        "source": "https://www.gutenberg.org/ebooks/11",
+        "page": 17,
+        "text": "“It was much pleasanter at home,” thought poor Alice, “when one wasn’t always growing larger and smaller, and being ordered about by mice and rabbits. I almost wish I hadn’t gone down that rabbit-hole—and yet—and yet—it’s rather curious, you know, this sort of life! I do wonder what _can_ have happened to me! When I used to read fairy-tales, I fancied that kind of thing never happened, and now here I am in the middle of one! There ought to be a book written about me, that there ought! And when I grow up, I’ll write one—but I’m grown up now,” she added in a sorrowful tone; “at least there’s no room to grow up any more _here_.”",
+        "metadata": {
+          "chapter": 4,
+          "chapter_title": "The Rabbit Sends in a Little Bill",
+          "language": "en",
+          "chapter_start": 3809,
+          "chapter_end": 5983,
+          "start": 0,
+          "end": 633
+        },
+        "score": 5.948843919014575,
+        "strategy": "bm25",
+        "rank": 3
+      }
+    ],
+    "context_ids": [
+      "a816788d4f3276d19517353adaac60ea21e4e5c651bbcac3ac21ad113ca7cb0a",
+      "70d2eab33654c990b78457a2e19729e962a27535c22a8e1c5a4338e4bbcc76c6",
+      "c42dc08cc787dbc454f174a907746d5f5cfd95a43ff8060f0d8f3d9671c6e1ae"
+    ],
+    "elapsed_ms": 6.770799867808819,
+    "provider_calls": []
+  }
+]

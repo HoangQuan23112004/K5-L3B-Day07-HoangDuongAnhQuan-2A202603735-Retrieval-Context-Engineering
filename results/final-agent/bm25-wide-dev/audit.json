@@ -1,0 +1,42 @@
+{
+  "cases": 17,
+  "provider_errors": 0,
+  "tool_use": {
+    "n": 17,
+    "N": 17
+  },
+  "grounded_answer": {
+    "0": 2,
+    "1": 1,
+    "2": 12,
+    "N": 15,
+    "mean": 1.6666666666666667
+  },
+  "citation_validity": {
+    "n": 12,
+    "N": 14
+  },
+  "answer_citation_coverage": {
+    "n": 13,
+    "N": 13
+  },
+  "abstention": {
+    "n": 2,
+    "N": 2
+  },
+  "false_abstention": {
+    "n": 2,
+    "N": 15
+  },
+  "context_grades": {
+    "0": 2,
+    "1": 0,
+    "2": 15
+  },
+  "reviews_hash": "92654753879ff645b173a95bc938d368dfdefa7d377942635da4c2f644bf402e",
+  "traces_hash": "e8db323a4b10336adb0c764c2d5f51da7882f556fa1e015a75e2ca56071e1d1a",
+  "review_provenance": {
+    "ai_assisted": 17,
+    "human_verified": 17
+  }
+}

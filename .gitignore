@@ -9,3 +9,11 @@ __pycache__/
 # Local datasets and generated output; share permitted artifacts deliberately
 starter/data/
 starter/results/
+
+# Private Day 6 data, local vector indexes and model runs
+data/day6/
+artifacts/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm

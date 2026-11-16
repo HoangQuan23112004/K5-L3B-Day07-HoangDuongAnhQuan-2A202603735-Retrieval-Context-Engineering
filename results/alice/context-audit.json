@@ -1,0 +1,198 @@
+[
+  {
+    "config": "bm25",
+    "query_id": "D7-T01",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Nguồn liệt kê đầy đủ Ambition, Distraction, Uglification, Derision trong lời Mock Turtle; có ID, nguồn và trang logic 52.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25",
+    "query_id": "D7-T02",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Lời Gryphon nói họ viết tên vì sợ quên trước khi hết phiên tòa; context giữ nguyên nguồn và trang logic 60.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25",
+    "query_id": "D7-T03",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Đoạn có đủ ba ngày và hành động cộng rồi đổi sang shillings/pence; context giữ điều kiện và nguồn, trang logic 61.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25",
+    "query_id": "D7-T04",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Đoạn mô tả đặt Lizard đầu chúc xuống và lấy ra đặt lại đúng chiều; đủ cả lỗi lẫn cách sửa, trang logic 64.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25",
+    "query_id": "D7-T05",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Đoạn có inkstand do Queen ném và Bill dùng mực chảy trên mặt để viết; đủ bằng chứng, trang logic 67.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25",
+    "query_id": "D7-T-N1",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": null,
+    "reason": "Câu thiếu evidence: cần agent thật để kiểm tra từ chối; retrieval tìm được đoạn liên quan không chứng minh có đáp án.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25",
+    "query_id": "D7-T-N2",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": null,
+    "reason": "Câu thiếu evidence: cần agent thật để kiểm tra từ chối; retrieval tìm được đoạn liên quan không chứng minh có đáp án.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T01",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Nguồn liệt kê đầy đủ Ambition, Distraction, Uglification, Derision trong lời Mock Turtle; có ID, nguồn và trang logic 52.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T02",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Lời Gryphon nói họ viết tên vì sợ quên trước khi hết phiên tòa; context giữ nguyên nguồn và trang logic 60.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T03",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Đoạn có đủ ba ngày và hành động cộng rồi đổi sang shillings/pence; context giữ điều kiện và nguồn, trang logic 61.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T04",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Đoạn mô tả đặt Lizard đầu chúc xuống và lấy ra đặt lại đúng chiều; đủ cả lỗi lẫn cách sửa, trang logic 64.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T05",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": 2,
+    "reason": "Đoạn có inkstand do Queen ném và Bill dùng mực chảy trên mặt để viết; đủ bằng chứng, trang logic 67.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T-N1",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": null,
+    "reason": "Câu thiếu evidence: cần agent thật để kiểm tra từ chối; retrieval tìm được đoạn liên quan không chứng minh có đáp án.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  },
+  {
+    "config": "bm25-wide",
+    "query_id": "D7-T-N2",
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "context_grade": null,
+    "reason": "Câu thiếu evidence: cần agent thật để kiểm tra từ chối; retrieval tìm được đoạn liên quan không chứng minh có đáp án.",
+    "agent_answer_grade": null,
+    "abstention_correct": null,
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16"
+    }
+  }
+]

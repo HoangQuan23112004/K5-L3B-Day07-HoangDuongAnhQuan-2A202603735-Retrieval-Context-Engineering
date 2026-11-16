@@ -1,0 +1,141 @@
+[
+  {
+    "query_id": "D7-T01",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đủ bốn nhánh Arithmetic đúng thứ tự tên trong nguồn, không nhầm Reeling/Writhing là nhánh Arithmetic.",
+    "citation_reasons": [
+      "Trang 52 trực tiếp liệt kê Ambition, Distraction, Uglification, Derision."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "6e8ebc7f3ea169caa1b0d05a236dc0fd0abd94f1d1010a36ebd0893a5edb7690",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T02",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng nguyên nhân jurors sợ quên tên trước khi phiên tòa kết thúc; không thêm nguyên nhân khác.",
+    "citation_reasons": [
+      "Trang 60 ghi putting down their names for fear they should forget them before end of trial."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "8af0583e6d22e06dd5363afad687b0d2d713286531ba75eae862474ced4252f5",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T03",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng cả hai thao tác cộng ba ngày và đổi kết quả sang shillings/pence, không tự bịa kết quả số.",
+    "citation_reasons": [
+      "Trang 61 mô tả jury wrote all three dates, added them up and reduced answer to shillings and pence."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "e79a5172bed798e0b22b9d331c444c5ff78a70fbe1a66adfe94ffff8b19e4928",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T04",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đủ lỗi đặt Lizard đầu chúc xuống và cách lấy ra, đặt lại đúng chiều; chi tiết không cử động được có trong nguồn.",
+    "citation_reasons": [
+      "Trang 64 ghi head downwards, unable to move, got it out again and put it right."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "fd698dae0304544fcd9e013ba3bed0c63eb3effde8ade79fda34b0f9c6a4178c",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T05",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng Bill dùng mực chảy trên mặt để viết tiếp; điều kiện còn mực cũng được nguồn hỗ trợ.",
+    "citation_reasons": [
+      "Trang 67 có inkstand do Queen ném và Bill using ink trickling down his face as long as it lasted."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "e3f6a31f8936105e4a2dfbaf5fdea386d56fbbc1e98b1c586f640118b7e94065",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T-N1",
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Toàn văn không nêu tuổi chính xác Bill. Model chủ động gọi abstain với lý do thiếu bằng chứng tuổi, output không bịa số.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "f31a7ef860ef3abf32ecbec468e54e957c177ef5a66fd4ed09e6f1cd1ef4ba39",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T-N2",
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Không có số nhà/địa chỉ bưu điện Alice trong corpus. Model chủ động gọi abstain, không lấy địa chỉ nhà Rabbit làm địa chỉ Alice.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "cd12ed389cba4b33fc4b6f6c85515edfc453109a2eaf1078c45ef07d128378f7",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  }
+]

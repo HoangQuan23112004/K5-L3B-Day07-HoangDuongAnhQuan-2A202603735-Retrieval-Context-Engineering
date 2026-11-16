@@ -1,0 +1,141 @@
+[
+  {
+    "query_id": "D7-T01",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đủ bốn nhánh Arithmetic đúng thứ tự tên trong nguồn, không nhầm Reeling/Writhing là nhánh Arithmetic.",
+    "citation_reasons": [
+      "Trang 52 trực tiếp liệt kê Ambition, Distraction, Uglification, Derision."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "98c93ac4ad8517574a68695518d59c2021b81322aabf708753a0e502e7f31d76",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T02",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng nguyên nhân jurors sợ quên tên trước khi phiên tòa kết thúc; không thêm nguyên nhân khác.",
+    "citation_reasons": [
+      "Trang 60 ghi putting down their names for fear they should forget them before end of trial."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "0869fc6188d3c5d52269294bdbc2c80f8842bf7b3f3a66edd5309030012d6c0a",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T03",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng cả hai thao tác cộng ba ngày và đổi kết quả sang shillings/pence, không tự bịa kết quả số.",
+    "citation_reasons": [
+      "Trang 61 mô tả jury wrote all three dates, added them up and reduced answer to shillings and pence."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "3ffff3baf4e74dbe30a06c87e7a15feae06f21e61cb7e94a672e6df0830b5cda",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T04",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng lỗi đặt đầu chúc xuống và lấy ra đặt lại thẳng. Lần thử đầu bị tool_use_failed trước khi có answer; resume chỉ câu error và giữ lịch sử.",
+    "citation_reasons": [
+      "Trang 64 ghi head downwards, unable to move, got it out again and put it right."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "35887e1af1a4477be3be925f1d7ca4baf31f06b265a8a2cd01e95ed5d5be3e41",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T05",
+    "answer_grade": 1,
+    "context_grade": 2,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng cách dùng mực trên mặt để viết, nhưng thêm trình tự sau khi Queen ném mực Bill mới ngừng viết bằng ngón tay. Nguồn dùng had left off: đã ngừng trước đó. Chấm 1 vì ý chính đúng nhưng chi tiết thời gian không được hỗ trợ.",
+    "citation_reasons": [
+      "Trang 67 hỗ trợ dùng ink trickling down face; không hỗ trợ trình tự stopped writing with one finger sau khi Queen ném inkstand như answer diễn đạt."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "992bbb7ada0eacfaf454631355e2c8224b7e9872af34ded961e812f6c947ef2c",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T-N1",
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Corpus không nêu tuổi Bill; output từ chối và không bịa số. Trace kết thúc search_limit, không phải model chủ động abstain.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "9cce453e4b46a3c17738733923442331ae922b1ea024172f11f4188517972227",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-T-N2",
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có số nhà/địa chỉ Alice; output từ chối và không gán địa chỉ Rabbit cho Alice. Trace kết thúc search_limit.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "1e890ccf04f2b7e6a0d98129508ff55710980eb91a17ed1f35ac062c9769286f",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  }
+]

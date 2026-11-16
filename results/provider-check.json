@@ -1,0 +1,10 @@
+{
+  "provider": "OpenAI-compatible at api.openai.com",
+  "operation": "embedding connectivity check",
+  "model": "text-embedding-3-small",
+  "inputs": 1,
+  "status": "error",
+  "http_status": 429,
+  "note": "Observed live before Day 6 local integration. Not a benchmark result. No credential or raw provider error body retained.",
+  "groq_status": "Live connection and four final benchmark runs completed; original OpenAI embedding HTTP 429 remains historical only"
+}

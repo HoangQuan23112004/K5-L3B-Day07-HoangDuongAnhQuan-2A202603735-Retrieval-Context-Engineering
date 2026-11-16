@@ -1,0 +1,343 @@
+[
+  {
+    "query_id": "Q01",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đủ hai ý: lọ rỗng và sợ làm chết người bên dưới. Context/citation có cả hai điều kiện.",
+    "citation_reasons": [
+      "Trang logic 1 nói jar was empty và fear of killing somebody underneath."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "260d9f8b815e7c33e298c31ae107f15b669e853d77858bffda8895adf9404b08",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q02",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Trả lời đúng chiếc đồng hồ lấy từ túi áo ghi-lê.",
+    "citation_reasons": [
+      "Nguồn trang 1 ghi Rabbit took a watch out of its waistcoat-pocket."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "c703db16202d3dd63e2d9bafbd0c7435827564de112cb9ca5c32d093b7dd050e",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q03",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng nguyên nhân sách không có tranh hay hội thoại; cách diễn giải giá trị sách khớp suy nghĩ Alice trong nguồn.",
+    "citation_reasons": [
+      "Trang 1 chứa no pictures or conversations và câu hỏi what is the use of a book."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "fe7f75f062fa3c7e705edc435900ae255c80b68d7b165a8c654f5e08d6487134",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q04",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng hành động kiểm tra nhãn poison trước khi uống.",
+    "citation_reasons": [
+      "Trang 4 ghi Alice sẽ look first và see whether marked poison or not."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "11d0baefebed14dff2545590b92949149ddcdbb9e6e8985c000a3d162483c23d",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q05",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng cả độ sâu khoảng 4 inch và chiều dài nửa hành lang.",
+    "citation_reasons": [
+      "Trang 6 nêu about four inches deep and reaching half down the hall."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "4fbad32d545443fb4bedfbde861e881d3c931ded3312071ac39f0a3026c5ea77",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q06",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng món quà là thimble và nguồn mô tả Dodo long trọng trao nó.",
+    "citation_reasons": [
+      "Trang 13 ghi Dodo solemnly presented the thimble."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "aec5fdff78e110112c74b65a6dda476a1cd9e1d3bdb9ad001ad0b3876967d176",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q07",
+    "answer_grade": 0,
+    "context_grade": 2,
+    "citation_support": [],
+    "abstention_correct": "not_applicable",
+    "reason": "Từ chối nhầm do search_limit dù context trang 14 có Dinah là mèo bắt chuột, ăn chim. Không coi context tốt là câu trả lời đúng.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "5445db1deb5eeb7dbab35045cbce15ba2e3f03440512c6135b44d0ada790739e",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q08",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Trả lời đúng tên Mary Ann mà Rabbit dùng để gọi nhầm Alice.",
+    "citation_reasons": [
+      "Trang 15 gọi Alice là Mary Ann rồi sai lấy găng tay và quạt."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "dcd9916c7cd4930d7423d3fdefb73e33ace42288603bd0aec3e5550141269f24",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q09",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng lời dọa thả Dinah vào nếu Rabbit đốt nhà; đã hết lỗi tool-use trong run này.",
+    "citation_reasons": [
+      "Trang 19 có đề nghị burn the house down và câu Alice đáp If you do, I'll set Dinah at you."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "664f92c56ba7bbcb357ec0f4cce8dd5272dace16ff805fd48e74312b97da82f9",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q10",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đủ cảnh ngồi trên nấm, khoanh tay, hút chiếc hookah dài; citation đúng đoạn giới thiệu ban đầu.",
+    "citation_reasons": [
+      "Trang 20 ghi Caterpillar ngồi trên nấm với arms folded, quietly smoking a long hookah."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "7da48c66950c21bd403618c82c3b919bde2536ca1b62ab79f5e3b26847c8ef35",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q11",
+    "answer_grade": 1,
+    "context_grade": 2,
+    "citation_support": [
+      false
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng việc Alice đã nếm trứng nhưng thiếu ý trẻ con ăn nhiều như rắn và thêm không thích trứng sống. Nguồn được cite không hỗ trợ toàn bộ câu trả lời.",
+    "citation_reasons": [
+      "Trang 25 chỉ nói đã tasted eggs và little girls eat eggs quite as much as serpents; không có chi tiết didn't like them raw."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "dc02442f577c8892f7e45b0098c03c673568466427b66882a137e28c534de5b8",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q12",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng quá nhiều tiêu trong súp và không khí làm Alice hắt hơi.",
+    "citation_reasons": [
+      "Trang 29 nêu too much pepper in soup, sneezing và too much in the air."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "3ed918ea8eaf1066158ca7cd8c9b9069945eb72c201b6ba336b6ec83c173e57b",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q13",
+    "answer_grade": 0,
+    "context_grade": 2,
+    "citation_support": [],
+    "abstention_correct": "not_applicable",
+    "reason": "Từ chối nhầm do search_limit; context trang 35 có Hatter nói butter wouldn't suit the works và March Hare đáp best butter.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "22a89c7bf948e1b903ab5be31d62dc75d71191176a1d32ea941afb8a555befdd",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q14",
+    "answer_grade": 1,
+    "context_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Chỉ nói ở đáy một cái giếng, thiếu loại treacle-well. Context có sống bằng treacle và vẽ treacle nhưng chưa có đoạn xác định rõ loại giếng.",
+    "citation_reasons": [
+      "Trang 38 thực sự nói ba chị em lived at the bottom of a well, hỗ trợ phát biểu chưa đầy đủ của answer."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "ec85cfeb424652224741504e3305273c50d1eaee590e7dcd49cd8bc084b6fde3",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "Q15",
+    "answer_grade": 2,
+    "context_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "abstention_correct": "not_applicable",
+    "reason": "Đúng đủ ba vật thay thế: nhím, hồng hạc và binh lính uốn người.",
+    "citation_reasons": [
+      "Trang 43 liệt kê live hedgehogs, live flamingoes, soldiers on hands and feet to make arches."
+    ],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "4839b09165ae6f54517477f37388c1a985abbdcecd0ec5d9becdab7f9dcc4ed8",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-D-N1",
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Corpus không cung cấp serial number đồng hồ. Output từ chối, không bịa số; kết thúc do search_limit, không phải model chủ động gọi abstain.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "5b9a1eb98daf43c3df7b08d5e243c228d330a3dbd99807f0cf21a3f5c6f8a45e",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  },
+  {
+    "query_id": "D7-D-N2",
+    "answer_grade": "not_applicable",
+    "context_grade": 0,
+    "citation_support": [],
+    "abstention_correct": true,
+    "reason": "Corpus không có ngày sinh chính xác người chị. Output từ chối, không bịa ngày; trace kết thúc search_limit.",
+    "citation_reasons": [],
+    "review_type": "ai_assisted",
+    "human_verified": true,
+    "trace_hash": "1af302eeb72bb38032a21f4f518f12284a7a6ad246fd8ee923ea284a2cfd44e4",
+    "human_verification": {
+      "source": "user_confirmation_in_conversation",
+      "date": "2026-11-16",
+      "record": "results/final-agent/human-verification.json"
+    }
+  }
+]

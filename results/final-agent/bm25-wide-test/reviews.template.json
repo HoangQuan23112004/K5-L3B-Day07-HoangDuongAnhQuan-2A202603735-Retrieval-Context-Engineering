@@ -1,0 +1,72 @@
+[
+  {
+    "query_id": "D7-T01",
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "context_grade": null,
+    "abstention_correct": "not_applicable",
+    "reason": "",
+    "citation_reasons": [
+      ""
+    ]
+  },
+  {
+    "query_id": "D7-T02",
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "context_grade": null,
+    "abstention_correct": "not_applicable",
+    "reason": "",
+    "citation_reasons": [
+      ""
+    ]
+  },
+  {
+    "query_id": "D7-T03",
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "context_grade": null,
+    "abstention_correct": "not_applicable",
+    "reason": "",
+    "citation_reasons": [
+      ""
+    ]
+  },
+  {
+    "query_id": "D7-T05",
+    "answer_grade": null,
+    "citation_support": [
+      null
+    ],
+    "context_grade": null,
+    "abstention_correct": "not_applicable",
+    "reason": "",
+    "citation_reasons": [
+      ""
+    ]
+  },
+  {
+    "query_id": "D7-T-N1",
+    "answer_grade": "not_applicable",
+    "citation_support": [],
+    "context_grade": null,
+    "abstention_correct": null,
+    "reason": "",
+    "citation_reasons": []
+  },
+  {
+    "query_id": "D7-T-N2",
+    "answer_grade": "not_applicable",
+    "citation_support": [],
+    "context_grade": null,
+    "abstention_correct": null,
+    "reason": "",
+    "citation_reasons": []
+  }
+]

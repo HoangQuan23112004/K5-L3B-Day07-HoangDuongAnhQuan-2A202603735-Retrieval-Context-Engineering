@@ -1,0 +1,47 @@
+{
+  "human_verified": true,
+  "review_origin": "ai_assisted",
+  "confirmed_by": "Học viên / chủ dự án, qua xác nhận trực tiếp trong hội thoại",
+  "confirmation_date": "2026-11-16",
+  "confirmation_source": "user_confirmation_in_conversation",
+  "confirmation_text": "tôi đã verify lại toàn bộ rồi",
+  "timing": "Human verification recorded after benchmark execution; no new model calls, configuration selection or grade changes.",
+  "frozen_agent_sha256": "aa6477d2b42ed801e90e345157c49afa016a2656c57f47abecf02aca3357a7aa",
+  "cases_hash": "6d8ab1de51ca2e5537e2075bb21994f12a0297a30b3622cf745b851589083548",
+  "runs": {
+    "bm25-dev-v3": {
+      "reviews": 17,
+      "traces_hash": "162f5fed15c2223563e82f2e90ea85181e2fd549023ebe847a868d5cc78f01c1",
+      "original_reviews_hash": "f77cf130b841ee9ab2fab6acd692d643cde1d7fbdaf08c3b5f817c424f36cbf1",
+      "reviews_hash": "538ca617bd89cdbbaf6b86570ad43c41692eb84ee5c01f4102cff4749ee2b1ba",
+      "unchanged_label_values_hash": "f9dc644145761b9dc0dfb121db42c82ad9097c245d6bc4e7e145addecccc5127"
+    },
+    "bm25-wide-dev": {
+      "reviews": 17,
+      "traces_hash": "e8db323a4b10336adb0c764c2d5f51da7882f556fa1e015a75e2ca56071e1d1a",
+      "original_reviews_hash": "de7c330eeaaee09a30f0c4ba9a496b554b81c7c9f2cc90e9ed0f5c55845634d7",
+      "reviews_hash": "92654753879ff645b173a95bc938d368dfdefa7d377942635da4c2f644bf402e",
+      "unchanged_label_values_hash": "ac94fd4fe40ab56d288dd36af2170c501541e91a8021da7f7726acb8e7fb4028"
+    },
+    "bm25-test": {
+      "reviews": 7,
+      "traces_hash": "f771f5504c716030778ba5196f3470241890104a416910415beb522d1bb88907",
+      "original_reviews_hash": "6547011b9276f09b175117aab1d9a660f4ed658d6585a74e5067c8fd1b148bf6",
+      "reviews_hash": "bddc9bed4a2ad753cfa63b741e817e606a064e14ddd799f65a8f31e51effa4f1",
+      "unchanged_label_values_hash": "efe37d18ddec96ec3203a08cc0f051afb807efcaf47d9a556230dc0efdaa13b2"
+    },
+    "bm25-wide-test-v2": {
+      "reviews": 7,
+      "traces_hash": "63d04bcf8498e69831e067a804380e84aa82db221c0ccd982b9b12d529871f39",
+      "original_reviews_hash": "1acb3fb9103c8b5e1a87a1f096379008fd6106bdd3b60b6c8e0ba3bf79bad7ca",
+      "reviews_hash": "6eede34b0c6c2e180bcdbca76542e24c027ec0f4f1a10f6ee95f8aec03d2eab5",
+      "unchanged_label_values_hash": "30e0326a0b39a14d811bbd8deecde3c9ad1e8d64d24950dc1c50e2abb2147d47"
+    }
+  },
+  "retrieval_context_audit": {
+    "file": "results/alice/context-audit.json",
+    "entries": 14,
+    "original_hash": "0c66d2266a1208d0f2a2c72907e60abebe99f09c2bcc9607686fe2d2c60a2ad1",
+    "verified_hash": "434dac5d2ca919440b5425a4be3ccb93c7c4cf8e4f89ca3ecb875948c8bbbce3"
+  }
+}

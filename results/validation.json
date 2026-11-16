@@ -1,0 +1,23 @@
+{
+  "command": ".venv/Scripts/python.exe -m unittest discover -s tests -v",
+  "tests_run": 47,
+  "failures": 0,
+  "errors": 0,
+  "skipped": 0,
+  "status": "passed",
+  "scope": "Code behavior and Qdrant fixture integration; not agent model quality",
+  "dataset_validation": "15 answerable + 2 unanswerable dev; 5 answerable + 2 unanswerable test",
+  "agent_benchmark": "Completed baseline and selected dev/test; 48 reviewed traces across four runs; all final runs have zero execution errors",
+  "groq_live_connection": "Verified with live Groq agent calls",
+  "review_type": "ai_assisted",
+  "human_verified": true,
+  "final_artifact_validation": {
+    "status": "passed",
+    "runs": 4,
+    "reviewed_traces": 48,
+    "audit_and_lock_hashes": "verified",
+    "test_lock_precedes_test_manifests": true,
+    "command": ".venv/Scripts/python.exe -X utf8 scripts/validate_final_results.py"
+  },
+  "human_verification_record": "results/final-agent/human-verification.json"
+}
