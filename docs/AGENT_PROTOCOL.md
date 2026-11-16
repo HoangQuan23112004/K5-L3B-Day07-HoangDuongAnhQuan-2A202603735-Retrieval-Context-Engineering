@@ -1,7 +1,5 @@
 # Giao thức hoàn tất benchmark agent
 
-Ghi ngày 16/11/2026, trước khi chạy test agent. Học viên yêu cầu Codex thực hiện phần còn lại và viết bản tổng hợp quá trình/kết quả.
-
 ## Phạm vi và so sánh
 
 - Corpus và benchmark giữ nguyên `data/alice/`; không sửa câu test hoặc gold theo kết quả agent.
